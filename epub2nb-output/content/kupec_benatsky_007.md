@@ -1,17 +1,15 @@
 ---
+title: JEDNÁNÍ DRUHÉ
 contentType: prose
 ---
 
-JEDNÁNÍ DRUHÉ
+## 1\. scéna
 
-1\. scéna
+_Belmont. – Komnata v domě Portiině._
 
-Belmont. – Komnata v domě Portiině.
+_Tuš. – Vystoupí PRINC MAROKÁNSKÝ a jeho DRUŽINA – PORTIE, NERISSA a jiní v průvodu._
 
-Tuš. – Vystoupí PRINC MAROKÁNSKÝ a jeho DRUŽINA – PORTIE, NERISSA a jiní v průvodu.
-
-PRINC MAROKÁNSKÝ:  
-Tvou nelibost ať nebudí má pleť;  
+**PRINC MAROKÁNSKÝ**:Tvou nelibost ať nebudí má pleť;  
 to stinné roucho zářivého slunce,  
 s nímž sousedím a jehož pěstila  
 mne blízkost. – Přiveď nejsvětlejšího  
@@ -27,8 +25,7 @@ Já nechtěl bych tu barvu zaměnit,
 leč bych si osvojil tvé myšlenky,  
 má sličná královno.
 
-PORTIE:  
-                                  Při volbě té  
+**PORTIE**:                                  Při volbě té  
 mi není vůdkyní jen něžná rada  
 mých dívčích očí. Kromě toho los,  
 jenž o mé sudbě rozhodnouti má,  
@@ -41,8 +38,7 @@ vy, slavný princi, u mne byste stál
 v též právě přízni jako každý z těch,  
 kdož přišli sem se o ni ucházet.
 
-PRINC MAROKÁNSKÝ:  
-I za to dík. Již tedy uveďte  
+**PRINC MAROKÁNSKÝ**:I za to dík. Již tedy uveďte  
 mne ku skřínkám, bych zkusil štěstí své.  
 Při meči tom, jímž Sofi skolen byl,  
 a perský princ, jenž trojí bojiště  
@@ -60,267 +56,251 @@ a tak i já, jsa veden slepým štěstím,
 snad s tím se minu, čeho dosíci  
 můž nehodnější kdos – a zhynu žalem.
 
-PORTIE:  
-Brát štěstí musíte, jak padne vám,  
+**PORTIE**:Brát štěstí musíte, jak padne vám,  
 buď rozhodnout se vůbec nevolit,  
 neb přísahat, než k volbě přistoupíte,  
 že zvolíte-li skřínku nepravou,  
 víc nikdy s ženou nepromluvíte  
 již o sňatku; – vše tedy rozvažte.
 
-PRINC MAROKÁNSKÝ:  
-S ní nepromluvím. Tedy k volbě již.
+**PRINC MAROKÁNSKÝ**:S ní nepromluvím. Tedy k volbě již.
 
-PORTIE:  
-Dřív přísahati jděte do chrámu  
+**PORTIE**:Dřív přísahati jděte do chrámu  
 a po obědě zkuste štěstí své.
 
-PRINC MAROKÁNSKÝ:  
-Tož tedy osud ještě toho dne  
+**PRINC MAROKÁNSKÝ**:Tož tedy osud ještě toho dne  
 mé štěstí neb mou kletbu rozhodne.
 
-Tuš. – Odejdou.
+_Tuš. – Odejdou._
 
-2\. scéna
+## 2\. scéna
 
-Benátky. – Ulice.
+_Benátky. – Ulice._
 
-Vystoupí LAUNCELOT.
+_Vystoupí LAUNCELOT._
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Jistě že moje svědomí bude při tom, abych utekl tomu Židu, mému pánu. Zlý duch stojí mi u lokte a pokouší mne řka: „Gobbo, Launcelote Gobbo, dobrý Launcelote,“ aneb, „dobrý Gobbo,“ aneb, „dobrý Launcelote Gobbo, vezmi nohy na ramena, rozběhni se a utíkej.“ – Moje svědomí praví: „Ne, měj se na pozoru, poctivý Launcelote, měj se na pozoru, poctivý Gobbo,“ aneb, jak dříve řečeno, „poctivý Launcelote Gobbo; neutíkej, pohrdni utíkáním vlastníma patama.“ – Dobrá, nadmíru kurážný ďábel mi káže, abych sebral svých pět švestek. „Hajdy!“ říká ďábel; „pryč!“ říká ďábel; „pro pána boha, povzbuď svou rekovnou mysl,“ říká ďábel, „a utíkej.“ – Dobrá, moje svědomí, padajíc mému srdci kolem krku, praví velmi moudře: „Můj poctivý příteli Launcelote, jako syn poctivého muže,“ – či raději syn poctivé ženy –, neboť můj otec byl trochu načichlý, měl tak nějaký škraloupek a příchuť – dobrá, moje svědomí praví: „Launcelote, ani se nehni.“ – „Hni se,“ praví ďábel. „Nehni se,“ praví moje svědomí. – „Svědomí,“ pravím já, „radíš dobře.“ „Ďáble,“ pravím já, „neradíš dobře.“ Kdybych uposlechl svědomí, zůstal bych u Žida, svého pána, který – odpusť pánbůh – jest jakýsi druh ďábla; a kdybych Židovi utekl, uposlechl bych ďábla, který – račte odpustit – je ďábel sám. Zajisté ten Žid jest opravdový, vtělený ďábel, a při mém svědomí! – Moje svědomí jest jakýsi druh zatvrzelého svědomí, ano mi radí, abych u Žida zůstal. Ďábel dává přátelštější radu. Uteču, ďáble; moje paty jsou ti k službám. Já uteču!
 
-Vystoupí STARÝ GOBBO s košíkem.
+_Vystoupí STARÝ GOBBO s košíkem._
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Mladý panáčku, vy, prosím vás, kudypak tu přijdu k panu Židovi?
 
-LAUNCELOT _(stranou)_:
+**LAUNCELOT** _(stranou)_:
 
 Ó, nebesa, to je můj manželsky nejvlastnější tatík! Má vlčí mlhu, ba řekl bych medvědí mlhu a nepoznává mne. Ztropím si nějakou švandu.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Mladý, vzácný panáčku, prosím vás, kudypak tu přijdu k panu Židovi?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Dejte se napravo na nejbližším rohu a na tom ještě bližším nalevo; na tom ze všech nejbližším nedávejte se ani napravo, ani nalevo, ale jděte nepřímo k židovně.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 I pro všechny svaté, to bude těžko trefit. Nemohl byste mi povědít, zdali nějaký Launcelot, který zůstává u Žida, tam zůstává, či ne?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Mluvíte o mladém pánu, Launcelotovi? _(Stranou.)_ Pozor! – Teď spustím na celé kolo. – Mluvíte o mladém pánu, Launcelotovi?
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Ne, pane panáčku; mluvím o synu chudého člověka. Jeho otec, ačkoliv já to povídám, je poctivý, z míry chudý muž a bohu díky drží se ještě dobře na nohou.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Dobrá, ať si jeho otec je, co chce, my mluvíme o mladém pánu, Launcelotovi.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 O příteli Vaší Vzácnosti a Launcelotovi, pane.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Ale prosím, ergo, starouši, ergo, žádám vás, mluvíte o mladém pánu, Launcelotovi?
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 O Launcelotovi, libo-li, Vašnosti.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Ergo pan Launcelot. Nemluvte o panu Launcelotovi, tatíku, neboť ten mladý pán určením sudby a osudu, a jak se to i jinak divně povídá, řízením tří sudiček a jiných takových odvětví učenosti, vskutku jest už nebožtík, aneb, jak bychom to prostě řekli, odešel do nebe.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Nedej bože! Ten chlapec byl pravou berlou mého stáří, mou skutečnou podporou.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Cožpak vypadám jako hůl nebo sloup, jako berla nebo podpora? Znáte mne, otče?
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Ach nastojte! – Neznám vás, mladý pane; ale prosím vás, řekněte mi, jest můj hoch – bůh mu dej lehké odpočinutí – živ, nebo mrtev?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Vy mne, otče, neznáte?
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Žel, pane, mám vlčí mhu; neznám vás.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Ba věru, i kdybyste viděl, snad byste mne nepoznal; jest to moudrý otec, jenž zná své vlastní dítě. Dobře, staroušku; já vám povím novinu o vašem synu: dejte mi své požehnání. – Pravda vyjde na světlo, vražda nemůže dlouho zůstati skryta; dítě člověka může; ale konečně, pravda musí ven.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Prosím vás, pane, vstaňte. Jsemť jist, že nejste Launcelot, můj kluk.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Prosím vás, už toho bláznovství dost, a dejte mi své požehnání. Jsem Launcelot, váš kluk, jenž byl, váš syn, který jest, a vaše dítě, které bude.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 To mi nejde na rozum, že jste můj syn.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 O tom nevím, co si myslet; ale jsem Launcelot, sluha Židův; a jsem jist, že Markéta, vaše žena, jest mou matkou.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Opravdu, Markéta jí říkají; a chci přísahat, jsi-li Launcelot, žes moje vlastní tělo a krev. Chvála bohu! Jakés to dostal vousy! Tys obrostlejší na bradě než Janek, náš valach, na ocase.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 To se tedy zdá, že Jankovi rostou žíně nazpátek, neboť když jsem ho posledně viděl, jsem jist, že měl více žíní na ocase než já chloupků na tváři.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 I pro pánka, jak jsi se to změnil! Jakpak se svým pánem vycházíš? Nesu mu něco do kuchyně. Nu, kterak spolu vycházíte?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Dobře, dobře; ale já sám postavil se na takové pevné stanovisko, že uteču a budu utíkat, dokud se nějak nepostavím na nohy. Můj pán je učiněný Žid. – Dávat mu dárek! Provaz mu dejte. Umírám hlady v jeho službách; každý prst mi můžete spočítati na žebrách. Otče, jsem rád, že jste přišel; doneste svůj dárek jistému panu Bassaniovi, který teď rozdává skutečně skvělé, nové livreje. Jestliže u něho službu nedostanu, budu utíkat, až kam boží země sahá. Ó vzácné štěstí! Zde přichází ten pán. K němu, otče! – Neboť ať jsem Žid, budu-li u toho Žida déle sloužiti!
 
-Vystoupí BASSANIO s LEONARDEM a jinými v průvodu.
+_Vystoupí BASSANIO s LEONARDEM a jinými v průvodu._
 
-BASSANIO:
+**BASSANIO**:
 
 Tak to můžete udělat. Ale pospěšte si, aby byla večeře připravena nejdéle k páté hodině. Ty dopisy obstarejte; obleky pro služebnictvo dejte do práce a poproste Gratiana, aby přišel hned ke mně, do mého bytu.
 
-Odejde SLOUŽÍCÍ.
+_Odejde SLOUŽÍCÍ._
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 K němu, otče!
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Bůh žehnej Vaši Vzácnosti!
 
-BASSANIO:
+**BASSANIO**:
 
 Děkuji, děkuji; chceš něco ode mne?
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Zde můj syn, pane, chudý hoch –
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Žádný chudý hoch, pane, ale služebník bohatého Žida; – a chtěl by, pane – jak můj otec bude specifikovati –
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 On má velikou infekci, pane, abychom tak řekli, sloužiti –
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Zkrátka a zdlouha, pane, sloužím u Žida a mám přání, jak můj otec bude specifikovati –
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Jeho pán a on, s odpuštěním Vaší Vzácnosti, jak říkáme, spolu nevaří –
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Ve vší krátkosti, čistá pravda jest, že ten Žid, mně ublíživ, zavdal mi příčinu, jak můj otec, který, doufám, je starý muž, vám bude fruktifikovati –
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 Mám zde pár holoubátek do kuchyně a rád bych je dal Vaší Vzácnosti a má prosba jest –
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 V největší krátkosti, ta prosba má impertinenci čili vztah ke mně, jak se Vaše Vzácnost dozví od tohoto poctivého, starého muže, který, ačkoliv já to povídám, je sice starý, ale chudý muž a můj otec.
 
-BASSANIO:
+**BASSANIO**:
 
 Mluv jeden za oba. Co žádáte?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Chci sloužit u vás, pane.
 
-STARÝ GOBBO:
+**STARÝ GOBBO**:
 
 To je právě defekt v té věci, pane.
 
-BASSANIO:  
-Aj znám tě, znám; tvá žádost splněna;  
+**BASSANIO**:Aj znám tě, znám; tvá žádost splněna;  
 dnes Shylock, pán tvůj, mluvil o tobě  
 a povýšil tě; jest-li povýšením  
 se služby vzdát u bohatého Žida  
 a sloužit u chudého šlechtice.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Staré přísloví velmi dobře poděluje mého pána, Shylocka, i vás, pane: vy máte boží požehnání a on má dost.
 
-BASSANIO:  
-Tos dobře řek. Jdi, otče, se synem.  
+**BASSANIO**:Tos dobře řek. Jdi, otče, se synem.  
 Se starým pánem svým se rozžehnej  
 a doptej se, kde bydlím. Dejte mu  
 šat pěknější než jeho soudruhům  
 a hleďte mi to řádně obstarat.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Otče, do židovny! – Já že nemohu dostat službu, já! Já že nemám jazyk v kotrbě! Aj, možno _(dívá se na dlaň)_, že má někdo v Itálii krásnější tabulku k přísahání na svaté Písmo, ale zato moje prorokuje mi štěstí. – Hle, zde jest jednoduchá čára životní; zde hrstka těch ženských; ach, patnáct žen, to není nic! Jedenáct vdov a devět dívek je dost skrovný důchod pro jednoho muže. A potom, třikrát ujdu utopení a třikrát smrtelnému nebezpečenství se oženit; to už je hezké vyváznutí. Nuže, je-li Štěstěna ženskou, je to hodná holka v těchto věcech. Pojďte, otče; rozloučím se s Židem, co by bičem šleh.
 
-Odejdou LAUNCELOT a STARÝ GOBBO.
+_Odejdou LAUNCELOT a STARÝ GOBBO._
 
-BASSANIO:  
-Jen, Leonardo, na to pamatuj:  
+**BASSANIO**:Jen, Leonardo, na to pamatuj:  
 až skoupíš vše a dobře uložíš,  
 hned chvátej zpět, neb večer pohostit  
 chci nejlepší své přátele; jdi, spěš.
 
-LEONARDO:  
-Vší pilností to všecko opatřím.
+**LEONARDO**:Vší pilností to všecko opatřím.
 
-Vystoupí GRATIANO.
+_Vystoupí GRATIANO._
 
-GRATIANO:  
-Kde jest váš pán?
+**GRATIANO**:Kde jest váš pán?
 
-LEONARDO:  
-                                   Tam prochází se, pane.  
+**LEONARDO**:                                   Tam prochází se, pane.  
 _(Odejde.)_
 
-GRATIANO:  
-Signor Bassanio –
+**GRATIANO**:Signor Bassanio –
 
-BASSANIO:  
-Gratiano!
+**BASSANIO**:Gratiano!
 
-GRATIANO:  
-Mám prosbu k vám.
+**GRATIANO**:Mám prosbu k vám.
 
-BASSANIO:  
-                                        Již vyplněna jest.
+**BASSANIO**:                                        Již vyplněna jest.
 
-GRATIANO:  
-To nesmíte mi odepřít; já musím  
+**GRATIANO**:To nesmíte mi odepřít; já musím  
 jít s vámi do Belmontu.
 
-BASSANIO:  
-Tož musíte. – Leč, Gratiano, slyš:  
+**BASSANIO**:Tož musíte. – Leč, Gratiano, slyš:  
 tys příliš drsný, divý, prostořeký;  
 to sice dosti pěkně sluší ti  
 a v očích jako naše není hřích;  
@@ -332,8 +312,7 @@ bych tam, kam jdu, pro divoký tvůj mrav
 snad nebyl posuzován nepravě,  
 a neztratil tak svoje naděje.
 
-GRATIANO:  
-Signor Bassanio, jen poslyšte:  
+**GRATIANO**:Signor Bassanio, jen poslyšte:  
 mrav střízlivý-li na se nevezmu  
 a nebudu-li mluvit uctivě  
 a klít jen tu a tam a modlitby  
@@ -345,34 +324,29 @@ jak ten, kdo v truchlé okázalosti
 se vycvičil, by líbil se své bábě,  
 ať nikdy víc mi neuvěříte!
 
-BASSANIO:  
-Však uhlídáme, jak se zachováte.
+**BASSANIO**:Však uhlídáme, jak se zachováte.
 
-GRATIANO:  
-Jen dnešní večer ještě vyjímám;  
+**GRATIANO**:Jen dnešní večer ještě vyjímám;  
 dle toho nesuďte, co ztropíme.
 
-BASSANIO:  
-Ne, to by věru bylo přeškoda;  
+**BASSANIO**:Ne, to by věru bylo přeškoda;  
 spíš, prosím, nejbujnější veselosti  
 se oddejte, neb máme přátele,  
 již bavit chtějí se. Leč s bohem již;  
 mne ještě volá jiná povinnost.
 
-GRATIANO:  
-K Lorenzovi jdu teď a k ostatním;  
+**GRATIANO**:K Lorenzovi jdu teď a k ostatním;  
 a večer všichni navštívíme vás.
 
-Odejdou.
+_Odejdou._
 
-3\. scéna
+## 3\. scéna
 
-Tamtéž. – Pokoj v domě Shylockově.
+_Tamtéž. – Pokoj v domě Shylockově._
 
-Vystoupí JESSIKA a LAUNCELOT.
+_Vystoupí JESSIKA a LAUNCELOT._
 
-JESSIKA:  
-Mne rmoutí, že chceš otce opustit;  
+**JESSIKA**:Mne rmoutí, že chceš otce opustit;  
 náš dům jest peklo, ale ty jsi v něm  
 čert veselý, jenž vzal mu trochu nudy.  
 Však s bohem buď; zde dukát pro tebe.  
@@ -383,14 +357,13 @@ a tajně učiň to. Již s bohem buď.
 Já nechci, aby viděl otec můj,  
 že s tebou mluvím.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Adé! Mé slzy hovoří za jazyk můj. Nejspanilejší pohanko, nejlíbeznější Židovko! Nehraje-li si nějaký křesťan na lotra a nedostane tě, pak se klamu velice. Ale, adé! Ty bláhové krůpěje trochu utápějí mého mužného ducha. Adé!
 
-JESSIKA:  
-Nuž měj se dobře, milý Launcelote.
+**JESSIKA**:Nuž měj se dobře, milý Launcelote.
 
-Odejde LAUNCELOT.
+_Odejde LAUNCELOT._
 
 Ach, jaký ohyzdný to ve mně hřích,  
 že stydím se být děckem svého otce!  
@@ -400,88 +373,72 @@ slib dodržíš-li, bude konec boji;
 chci býti křesťankou a ženou tvojí.  
 _(Odejde.)_
 
-4\. scéna
+## 4\. scéna
 
-Tamtéž. – Ulice.
+_Tamtéž. – Ulice._
 
-Vystoupí GRATIANO, LORENZO, SALARINO a SALANIO.
+_Vystoupí GRATIANO, LORENZO, SALARINO a SALANIO._
 
-LORENZO:  
-My od večeře odkrademe se,  
+**LORENZO**:My od večeře odkrademe se,  
 v mém obydlí si kukly vezmeme  
 a za hodinu vrátíme se zas.
 
-GRATIANO:  
-Vše není ještě dobře schystáno.
+**GRATIANO**:Vše není ještě dobře schystáno.
 
-SALARINO:  
-My dosud nezjednali pochodníkův.
+**SALARINO**:My dosud nezjednali pochodníkův.
 
-SALANIO:  
-Bez hezké výpravy to k ničemu;  
+**SALANIO**:Bez hezké výpravy to k ničemu;  
 a lépe bude toho zanechat.
 
-LORENZO:  
-Jsou teprv čtyři; tedy zbývají  
+**LORENZO**:Jsou teprv čtyři; tedy zbývají  
 dvě hodiny nám ještě k přípravám.
 
-Vystoupí LAUNCELOT s psaním.
+_Vystoupí LAUNCELOT s psaním._
 
 Co nového nám neseš, příteli?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Ráčíte-li to zde rozpečetit, zdá se, že se to ukáže.
 
-LORENZO:  
-To písmo znám; ba věru, krásné písmo,  
+**LORENZO**:To písmo znám; ba věru, krásné písmo,  
 a bělejší než papír, na němž psáno,  
 jest krásná ruka, jež je napsala.
 
-GRATIANO:  
-Toť dozajista zprávy milostné.
+**GRATIANO**:Toť dozajista zprávy milostné.
 
-LAUNCELOT:  
-S vaším dovolením, pane.
+**LAUNCELOT**:S vaším dovolením, pane.
 
-LORENZO:  
-Kam jdeš?
+**LORENZO**:Kam jdeš?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Inu, pane, pozvat svého starého pána, Žida, na dnešek k večeři u mého nového pána, křesťana.
 
-LORENZO:  
-Tu vezmi. – Řekni sličné Jessice,  
+**LORENZO**:Tu vezmi. – Řekni sličné Jessice,  
 že jistě přijdu; tajně jí to řekni.
 
-Odejde LAUNCELOT.
+_Odejde LAUNCELOT._
 
 Nuž, páni, chcete-li se připravit  
 na večerní ten průvod maškarní?  
 Já pochodníka si již opatřil.
 
-SALARINO:  
-Já okamžitě dám se do toho.
+**SALARINO**:Já okamžitě dám se do toho.
 
-SALANIO:  
-Též já.
+**SALANIO**:Též já.
 
-LORENZO:  
-           A v bytu Gratianově  
+**LORENZO**:           A v bytu Gratianově  
 mne asi za hodinku najdete.
 
-SALARINO:  
-Jest dobře, budem tam.
+**SALARINO**:Jest dobře, budem tam.
 
-Odejdou SALARINO a SALANIO.
+_Odejdou SALARINO a SALANIO._
 
-GRATIANO:  
-                                              To psaníčko  
+**GRATIANO**:                                              To psaníčko  
 zdaž nebylo od krásné Jessiky?
 
-LORENZO:  
-Chtěj nechtěj, musím vše ti povědít.  
+**LORENZO**:Chtěj nechtěj, musím vše ti povědít.  
 Zde píše mi, jak z domu otcova  
 ji unést mám; jak zlatem, klenoty  
 jest opatřena, jaký pážecí  
@@ -494,40 +451,35 @@ jí cestu zkřížit, bude to jen proto,
 Pojď se mnou, přečti si to na cestě.  
 Mým pochodníkem bude Jessika.
 
-Odejdou.
+_Odejdou._
 
-5\. scéna
+## 5\. scéna
 
-Tamtéž. – Před domem Shylockovým.
+_Tamtéž. – Před domem Shylockovým._
 
-Vystoupí SHYLOCK a LAUNCELOT.
+_Vystoupí SHYLOCK a LAUNCELOT._
 
-SHYLOCK:  
-Však uvidíš – tvé oči budou soudci –  
+**SHYLOCK**:Však uvidíš – tvé oči budou soudci –  
 ten rozdíl mezi starým Shylockem  
 a tím Bassaniem. – Hej, Jessiko! –  
 Tak nebudeš se vypásat jak u mne. –  
 Hej, Jessiko! – A spát a chrápat jen  
 a šaty trhat. – Jářku, Jessiko!
 
-LAUNCELOT:  
-Hej, Jessiko!
+**LAUNCELOT**:Hej, Jessiko!
 
-SHYLOCK:  
-                               Kdo poroučí ti volat?  
+**SHYLOCK**:                               Kdo poroučí ti volat?  
 Já neporoučím, abys volal ty.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Vašnost mi vždycky říkávala, že neudělám ničeho, co se mi neporučí.
 
-Vystoupí JESSIKA.
+_Vystoupí JESSIKA._
 
-JESSIKA:  
-Či volal jste mne? Co si přejete?
+**JESSIKA**:Či volal jste mne? Co si přejete?
 
-SHYLOCK:  
-Jsem pozván na večeři, Jessiko;  
+**SHYLOCK**:Jsem pozván na večeři, Jessiko;  
 zde jsou mé klíče. Ale nač tam jít?  
 Mne nezvou z lásky, jen mi lichotí;  
 však půjdu z nenávisti; vyjídat  
@@ -537,19 +489,17 @@ Jdu velmi nerad; něco šeredného
 se kutí proti mému poklidu,  
 neb zdálo se mi dnes o měšcích peněz.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Prosím vás, pane, jděte; můj mladý pán očekává, že tam sejdete.
 
-SHYLOCK:  
-Nu, čekám také já, až sejde on!
+**SHYLOCK**:Nu, čekám také já, až sejde on!
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 A oni se spolu na něčem umluvili; – já neříkám, že uhlídáte maškary; ale uhlídáte-li, nebylo to nadarmo, že se mi spustila z nosu krev loni na černý pondělek v šest hodin ráno, kterýžto velkonoční den padl toho roku právě na odpoledne, kdy před čtyřmi lety byla Popeleční středa.
 
-SHYLOCK:  
-Jak, budou maškary? Slyš, Jessiko,  
+**SHYLOCK**:Jak, budou maškary? Slyš, Jessiko,  
 ať zamkneš vrata; a když uslyšíš  
 hřmot bubnů a to hnusné kvíkání  
 jich křivých píšťal, k oknu nelez mi  
@@ -563,21 +513,17 @@ při berle Jakubově, nemám chuť
 dnes večer k hodům jít. – Však půjdu přec.  
 Jdi napřed, brachu; řekni jim, že přijdu.
 
-LAUNCELOT:  
-Půjdu napřed, pane. Slečinko, z toho okna se podívejte přec:
+**LAUNCELOT**:Půjdu napřed, pane. Slečinko, z toho okna se podívejte přec:
 
 Kolem jít se křesťan strojí;  
 za Židovčin pohled stojí!  
 _(Odejde.)_
 
-SHYLOCK:  
-Co dí ten blázen z Hagařina rodu?
+**SHYLOCK**:Co dí ten blázen z Hagařina rodu?
 
-JESSIKA:  
-On řekl: „S bohem, slečno,“ dále nic.
+**JESSIKA**:On řekl: „S bohem, slečno,“ dále nic.
 
-SHYLOCK:  
-Dost dobrý troup, však přenáramný žrout,  
+**SHYLOCK**:Dost dobrý troup, však přenáramný žrout,  
 plž na můj zisk, a za dne větší spáč  
 než kočka divoká. – Úl pro trubce  
 můj není dům; a proto pustím ho,  
@@ -590,36 +536,30 @@ jak jsem ti kázal; zamkni za sebou.
 to přísloví vždy u šetrných platí.  
 _(Odejde.)_
 
-JESSIKA:  
-Již s bohem; osud přát-li bude dále,  
+**JESSIKA**:Již s bohem; osud přát-li bude dále,  
 já otce ztratím a vy dceru v mále.  
 _(Odejde.)_
 
-6\. scéna
+## 6\. scéna
 
-Tamtéž.
+_Tamtéž._
 
-Vystoupí GRATIANO a SALARINO maskováni.
+_Vystoupí GRATIANO a SALARINO maskováni._
 
-GRATIANO:  
-Zde pod tím přístřeškem, Lorenzo chtěl,  
+**GRATIANO**:Zde pod tím přístřeškem, Lorenzo chtěl,  
 bych počkal na něho a také vy.
 
-SALARINO:  
-On skoro zameškal svou hodinu.
+**SALARINO**:On skoro zameškal svou hodinu.
 
-GRATIANO:  
-A jest to div, že váhá přes svůj čas,  
+**GRATIANO**:A jest to div, že váhá přes svůj čas,  
 neb milenci vždy orloj předcházejí.
 
-SALARINO:  
-Ó letem desetkráte bystřejším  
+**SALARINO**:Ó letem desetkráte bystřejším  
 se nesou Venušiny hrdličky,  
 by zpečetily nový svazek lásky,  
 než aby zachovaly daný slib!
 
-GRATIANO:  
-Tak bývá vždy. Kdož vstává od hostiny  
+**GRATIANO**:Tak bývá vždy. Kdož vstává od hostiny  
 s touž bystrou chutí, s jakou k stolu sed?  
 Kde oř, jenž cválá drahou únavnou  
 zas nazpátek s týmž nezkroceným ohněm,  
@@ -635,14 +575,12 @@ a zdraným plachtovím, tak vychrtlá
 a rozbitá a ožebračená  
 týmž větrem záletným!
 
-SALARINO:  
-                                        Hle, toť Lorenzo;  
+**SALARINO**:                                        Hle, toť Lorenzo;  
 víc o tom jindy.
 
-Vystoupí LORENZO.
+_Vystoupí LORENZO._
 
-LORENZO:  
-                                  Milí přátelé,  
+**LORENZO**:                                  Milí přátelé,  
 již odpusťte mi moje prodlení;  
 ne já, však moje záležitosti  
 vás čekat nechaly. – Až bude vám  
@@ -651,28 +589,23 @@ já na vás počkám zrovna dlouho tak.
 Sem blíž – zde přebývá můj otec Žid.  
 Kdo jest to v domě tam?
 
-Vystoupí JESSIKA nahoře u okna v oděvu pacholíka.
+_Vystoupí JESSIKA nahoře u okna v oděvu pacholíka._
 
-JESSIKA:  
-                                                      A kdo jste vy?  
+**JESSIKA**:                                                      A kdo jste vy?  
 Pro větší jistotu to povězte,  
 ač přísahati chci, že znám váš hlas.
 
-LORENZO:  
-Lorenzo a tvá láska.
+**LORENZO**:Lorenzo a tvá láska.
 
-JESSIKA:  
-Lorenzo jistě a má láska věru;  
+**JESSIKA**:Lorenzo jistě a má láska věru;  
 neb koho miluji tak přes míru?  
 A kdož, Lorenzo, ví to, kromě vás,  
 zda vaše jsem?
 
-LORENZO:  
-                            Jsou svědkem nebesa  
+**LORENZO**:                            Jsou svědkem nebesa  
 a tvoje vlastní srdce, že jsi má.
 
-JESSIKA:  
-Tu skřínku chyťte; stojí za chycení.  
+**JESSIKA**:Tu skřínku chyťte; stojí za chycení.  
 Jsem ráda noci, že mne nevidíte,  
 neb stydím se za svoji proměnu;  
 však láska slepá jest a milenci  
@@ -681,81 +614,69 @@ jež tropí sami; kdyby mohli to,
 sám Cupid by se zarděl, vida mne  
 tak v hocha změněnu.
 
-LORENZO:  
-                                           Jen sejděte,  
+**LORENZO**:                                           Jen sejděte,  
 neb musíte mým pochodníkem být.
 
-JESSIKA:  
-Jak? – Na svou vlastní hanbu svítit mám?  
+**JESSIKA**:Jak? – Na svou vlastní hanbu svítit mám?  
 Tať věru sama sebou světlá dost.  
 Ta služba, miláčku, mne prozradí  
 a musím skryta být.
 
-LORENZO:  
-                                           To, milá, jsi  
+**LORENZO**:                                           To, milá, jsi  
 i v rozmilém tom chlapčím oděvu.  
 Však sejdi hned, neb čirá noc si hrá  
 již na uprchlíka a čekají  
 nás při hostině u Bassania.
 
-JESSIKA:  
-Jen dvéře uzamknu a pozlatím  
+**JESSIKA**:Jen dvéře uzamknu a pozlatím  
 se ještě malou hrstkou dukátů  
 a budu u vás hned.  
 _(Odejde nahoře.)_
 
-GRATIANO:  
-                                   Při kápi mé,  
+**GRATIANO**:                                   Při kápi mé,  
 toť anděl pohanský, ne Židovka!
 
-LORENZO:  
-Bůh svědkem, ze srdce ji miluji;  
+**LORENZO**:Bůh svědkem, ze srdce ji miluji;  
 jeť moudrá, dobře o ní soudím-li,  
 a krásná, neklamou-li oči mé,  
 a věrná, jakož osvědčila to,  
 a protož moudrá, krásná, věrna jsouc  
 v mém stálém srdci místa nalezne.
 
-Vystoupí JESSIKA dole.
+_Vystoupí JESSIKA dole._
 
 Ty zde? – Nuž, páni, neváhejme déle,  
 neb masky čekají tam u přítele.
 
-Odejde s JESSIKOU a SALARINEM. – Vystoupí ANTONIO.
+_Odejde s JESSIKOU a SALARINEM. – Vystoupí ANTONIO._
 
-ANTONIO:  
-Kdo zde?
+**ANTONIO**:Kdo zde?
 
-GRATIANO:  
-Signor Antonio!
+**GRATIANO**:Signor Antonio!
 
-ANTONIO:  
-Aj, Gratiano, kde jsou ostatní?  
+**ANTONIO**:Aj, Gratiano, kde jsou ostatní?  
 Jest devět hodin, všichni přátelé  
 již na vás čekají; dnes není maškar;  
 teď vítr příznivě se otočil;  
 Bassanio hned vstoupí na koráb;  
 já dvacet lidí rozeslal vás hledat.
 
-GRATIANO:  
-Jsem tomu rád; toť nejlíp se mi hodí,  
+**GRATIANO**:Jsem tomu rád; toť nejlíp se mi hodí,  
 na širém moři ještě dnes být s lodí.
 
-Odejdou.
+_Odejdou._
 
-7\. scéna
+## 7\. scéna
 
-Belmont. – Komnata v domě Portiině. – Tuš.
+_Belmont. – Komnata v domě Portiině. – Tuš._
 
-Vystoupí PORTIE, PRINC MAROKÁNSKÝ a jejich DRUŽINY.
+_Vystoupí PORTIE, PRINC MAROKÁNSKÝ a jejich DRUŽINY._
 
-PORTIE:  
-Ty opony tam odhrňte a skřínky  
+**PORTIE**:Ty opony tam odhrňte a skřínky  
 zde vznešenému princi ukažte.  
 Již tedy volte.
 
-PRINC MAROKÁNSKÝ:  
-                      První zlatá jest  
+**PRINC MAROKÁNSKÝ**:                      První zlatá jest  
 a na ní napsáno: „Kdo zvolí mne,  
 mít bude to, co mnozí sobě přejí.“  
 A druhá, stříbrná, slib nese ten:  
@@ -766,13 +687,11 @@ jest olovo a dí též tupě tak:
 a vše jen v sázku.“ – Jakže poznám to,  
 že zvolil jsem tu pravou?
 
-PORTIE:  
-                                              V jedné z nich  
+**PORTIE**:                                              V jedné z nich  
 jest obraz můj; když dobře zvolíte,  
 jsem vaše, princi.
 
-PRINC MAROKÁNSKÝ:  
-                           Kéž nějaký bůh  
+**PRINC MAROKÁNSKÝ**:                           Kéž nějaký bůh  
 mou řídil soudnost! Podívejme se;  
 chci znovu prohlédnouti nápisy.  
 Co povídá ta olověná skříň?  
@@ -832,14 +751,12 @@ však obraz ten byl vryt jen na povrch:
 zde anděl v zlatém lůžku leží cele.  
 Sem klíč, já volím zde; již buď jak buď. –
 
-PORTIE:  
-Zde, princi, jest; a můj-li obraz tam,  
+**PORTIE**:Zde, princi, jest; a můj-li obraz tam,  
 vám náležím.
 
-PRINC MAROKÁNSKÝ otevře zlatou skřínku.
+_PRINC MAROKÁNSKÝ otevře zlatou skřínku._
 
-PRINC MAROKÁNSKÝ:  
-                    Ó peklo! Co to jest?  
+**PRINC MAROKÁNSKÝ**:                    Ó peklo! Co to jest?  
 Toť kostlivec, a v očním důlku zde  
 má lístek popsaný: Hned přečtu to.  
 _(Čte.)_  
@@ -858,40 +775,35 @@ Již dobře se tu mějte, Portie!
 Bych dlouze loučil se, až příliš bolí  
 mne u srdce; – tak jde, kdo špatně volí.
 
-Odejde se svou DRUŽINOU. – Tuš.
+_Odejde se svou DRUŽINOU. – Tuš._
 
-PORTIE:  
-Toť šťastné zbytí. Dolů s oponou. –  
+**PORTIE**:Toť šťastné zbytí. Dolů s oponou. –  
 Tak všichni jemu podobní ať jdou!
 
-Odejdou.
+_Odejdou._
 
-8\. scéna
+## 8\. scéna
 
-Benátky. – Ulice.
+_Benátky. – Ulice._
 
-Vystoupí SALARINO a SALANIO.
+_Vystoupí SALARINO a SALANIO._
 
-SALARINO:  
-Bassanio, jak pravím, odplul již;  
+**SALARINO**:Bassanio, jak pravím, odplul již;  
 s ním Gratiano dal se na cestu,  
 Lorenzo však tam na korábu není.
 
-SALANIO:  
-Ten padouch Žid svým křikem vybouřil  
+**SALANIO**:Ten padouch Žid svým křikem vybouřil  
 i vévodu, jenž šel s ním prohledat  
 Bassaniovu loď.
 
-SALARINO:  
-                         A přišel pozdě,  
+**SALARINO**:                         A přišel pozdě,  
 neb koráb odplul již; však vévodě  
 tam řečeno, že viděn v gondole  
 Lorenzo s milenou svou Jessikou;  
 a též Antonio mu dosvědčil,  
 že nejsou na lodi s Bassaniem.
 
-SALANIO:  
-Co živ jsem neslyšel tak pustý ryk,  
+**SALANIO**:Co živ jsem neslyšel tak pustý ryk,  
 tak nezvyklý a vzteklý, zmatený,  
 jak ved si městem židovský ten pes:  
 „Má dcera! Ó mé dukáty! Má dcera!  
@@ -905,18 +817,15 @@ a vzácné drahokamy ukradla
 mi moje dcera. Soude! Najdi děvče!  
 má skvosty na sobě, a dukáty!“
 
-SALARINO:  
-A za ním všichni kluci benátští  
+**SALARINO**:A za ním všichni kluci benátští  
 se hrnou křičíce: „Mé kameny!  
 Má dcera! Moje dukáty!“
 
-SALANIO:  
-                                       Ať jen  
+**SALANIO**:                                       Ať jen  
 Antonio teď lhůtu dodrží,  
 sic zle to zaplatí.
 
-SALARINO:  
-                            Tos dobře vzpomněl.  
+**SALARINO**:                            Tos dobře vzpomněl.  
 Já včera mluvil s jakýms Francouzem  
 a ten mi řek, že v mořské úžině,  
 jež od Anglicka dělí Francii,  
@@ -925,12 +834,10 @@ se ztroskotala. – Vzpomněl jsem si hned
 Antonia, když mi to povídal,  
 a v duši přál si, by nebyla jeho.
 
-SALANIO:  
-Jest radno, abys mu to oznámil,  
+**SALANIO**:Jest radno, abys mu to oznámil,  
 však náhle ne, bys nezarmoutil jej.
 
-SALARINO:  
-Muž lepší po té zemi nechodí.  
+**SALARINO**:Muž lepší po té zemi nechodí.  
 Já viděl jsem ho, jak s Bassaniem  
 se loučil. Řeklť mu Bassanio,  
 že uspíší svůj návrat. – Odvětil:  
@@ -949,39 +856,34 @@ tvář odvrátil, vztáh ruku za sebe
 a s vřelostí až srdce jímající  
 mu ruku tisk; – a tak se rozešli.
 
-SALANIO:  
-Jen kvůli němu, tuším, svět mu milý.  
+**SALANIO**:Jen kvůli němu, tuším, svět mu milý.  
 Již pojďme, prosím tě, jej vyhledat,  
 a zádumčivost, jíž se oddává,  
 tak nebo jinak hleďme rozptýlit.
 
-SALARINO:  
-Tak učiňme.
+**SALARINO**:Tak učiňme.
 
-Odejdou.
+_Odejdou._
 
-9\. scéna
+## 9\. scéna
 
-Belmont. – Komnata v domě Portiině.
+_Belmont. – Komnata v domě Portiině._
 
-Vystoupí NERISSA a SLOUŽÍCÍ.
+_Vystoupí NERISSA a SLOUŽÍCÍ._
 
-NERISSA:  
-Jen rychle, rychle, odhrň oponu;  
+**NERISSA**:Jen rychle, rychle, odhrň oponu;  
 princ aragonský složil přísahu  
 a v okamžení přijde k volbě sem.
 
-Tuš. – Vystoupí PRINC ARAGONSKÝ, PORTIE a jejich DRUŽINY.
+_Tuš. – Vystoupí PRINC ARAGONSKÝ, PORTIE a jejich DRUŽINY._
 
-PORTIE:  
-Hle, tam jsou skřínky, princi vznešený;  
+**PORTIE**:Hle, tam jsou skřínky, princi vznešený;  
 tu zvolíte-li, která chová mne,  
 hned naše svatba bude slavena;  
 leč chybíte-li, bez všech dalších slov  
 v mžik musíte nás, princi, opustit.
 
-PRINC ARAGONSKÝ:  
-Tři věci přísahal jsem zachovat;  
+**PRINC ARAGONSKÝ**:Tři věci přísahal jsem zachovat;  
 tož předně: nikomu že nezradím  
 a nikdy skřínku, kterou zvolil jsem;  
 dál: jestli pravou skřínku nezvolím,  
@@ -990,12 +892,10 @@ se o nevěstu více ucházet;
 a posléz: nebude-li přát mi štěstí,  
 že hned vás opustím a odejdu.
 
-PORTIE:  
-To každý přísahá, kdo uchází se  
+**PORTIE**:To každý přísahá, kdo uchází se  
 o moji nepatrnou osobu.
 
-PRINC ARAGONSKÝ:  
-A tak jsem já se rozhod. Štěstí teď  
+**PRINC ARAGONSKÝ**:A tak jsem já se rozhod. Štěstí teď  
 kéž přálo mého srdce naději!  
 Hle, zlato, stříbro, sprosté olovo.  
 „Kdo zvolí mne, vše musí dát, co má,  
@@ -1039,12 +939,11 @@ Klíč od této mi dejte; a mé štěstí
 ať okamžitě zde se otevře.  
 _(Otevírá skřínku stříbrnou.)_
 
-PORTIE _(stranou)_:
+**PORTIE** _(stranou)_:
 
 Až příliš dlouho váhal o svůj nález.
 
-PRINC ARAGONSKÝ:  
-Co to? – Toť obraz blikavého blázna,  
+**PRINC ARAGONSKÝ**:Co to? – Toť obraz blikavého blázna,  
 jenž podává mi list. – Hned přečtu to.  
 Ó jak jsi nepodoben Portii,  
 mým nadějím a mojí zásluze!  
@@ -1053,12 +952,10 @@ co zasluhuje.“ – Nezasluhuji
 nic víc než tuto hlavu bláznovu?  
 Toť cena má? – Mé zásluhy nic lepší?
 
-PORTIE:  
-Být viníkem a soudcem rozdílné  
+**PORTIE**:Být viníkem a soudcem rozdílné  
 jsou výkony a vždycky v odporu.
 
-PRINC ARAGONSKÝ:  
-Co tady psáno?  
+**PRINC ARAGONSKÝ**:Co tady psáno?  
 _(Čte.)_  
 _„Sedmkrát žár stříbro taví;  
 sedmkráte rozum zdravý  
@@ -1077,30 +974,24 @@ s dvěma z námluv odešel jsem.
 S bohem, krásko! – Chci svůj žal  
 tich nést, jak jsem přísahal.
 
-Odejde PRINC ARAGONSKÝ se svou DRUŽINOU.
+_Odejde PRINC ARAGONSKÝ se svou DRUŽINOU._
 
-PORTIE:  
-Mol tak vždy si křídla spal!  
+**PORTIE**:Mol tak vždy si křídla spal!  
 Těch bláznů mudráckých! – Když volit chtějí,  
 pro samý důvtip moudrost utrácejí.
 
-NERISSA:  
-Přec jen má pravdu slovo starých matek,  
+**NERISSA**:Přec jen má pravdu slovo starých matek,  
 že šibenice souzena i sňatek.
 
-PORTIE:  
-Pojď, Nerisso, a stáhni oponu.
+**PORTIE**:Pojď, Nerisso, a stáhni oponu.
 
-Vystoupí SLOUŽÍCÍ.
+_Vystoupí SLOUŽÍCÍ._
 
-SLOUŽÍCÍ:  
-Kde jest má paní?
+**SLOUŽÍCÍ**:Kde jest má paní?
 
-PORTIE:  
-                          Zde; – co chce můj pán?
+**PORTIE**:                          Zde; – co chce můj pán?
 
-SLOUŽÍCÍ:  
-U vaší brány, slečno, sestoupil  
+**SLOUŽÍCÍ**:U vaší brány, slečno, sestoupil  
 teď mladý Benátčan, jenž přichvátal,  
 by svého pána příchod oznámil.  
 I přináší vám vzácné pozdravy,  
@@ -1111,14 +1002,12 @@ Tak v dubnu, nehlásá den líbezný,
 že léto nádherné již blízko jest,  
 jak posel tento před svým pánem jde.
 
-PORTIE:  
-Nic dále, prosím tě; mám skoro strach,  
+**PORTIE**:Nic dále, prosím tě; mám skoro strach,  
 bys neřek, že to nějaký tvůj strýc;  
 tak pln jsi o něm chvály sváteční.  
 Pojď, Nerisso, ať hned se podívám,  
 jak švarný posel od Mílka jde k nám.
 
-NERISSA:  
-Kéž jest Bassaniův, dejž, Mílku sám!
+**NERISSA**:Kéž jest Bassaniův, dejž, Mílku sám!
 
-Odejdou.
+_Odejdou._

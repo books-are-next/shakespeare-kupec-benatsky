@@ -1,28 +1,31 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Kupec benátský",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "William Shakespeare",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-04T00:00:00.000Z"
+      "modified": "2022-02-04T00:00:00.000Z",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": " MLP_uroven3_nadpis",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-\n",
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "figure": "MLP_obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_titulka_prekladatel\nMLP_scenicke_poznamky\nMLP_text_bez1radku_-I-_-12-12-\nMLP_verse_drama",
+      "strong": "MLP_tiraz_autor_a_nazev\nMLP_znak_tucne_11b",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +33,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "kupec_benatsky_001.md",
             "xhtml": "kupec_benatsky_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_002.md",
@@ -48,32 +53,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_003.md",
             "xhtml": "kupec_benatsky_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_004.md",
             "xhtml": "kupec_benatsky_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_005.md",
@@ -84,7 +92,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_006.md",
@@ -95,7 +104,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_007.md",
@@ -106,7 +116,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_008.md",
@@ -117,7 +128,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_009.md",
@@ -128,7 +140,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_010.md",
@@ -139,7 +152,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kupec_benatsky_011.md",
@@ -150,7 +164,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -190,37 +205,37 @@
         "xhtml": "kupec_benatsky_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSOBY",
         "subtitleSuggest": "",
         "filename": "kupec_benatsky_005.md",
         "xhtml": "kupec_benatsky_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ PRVNÍ",
         "subtitleSuggest": "",
         "filename": "kupec_benatsky_006.md",
         "xhtml": "kupec_benatsky_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ DRUHÉ",
         "subtitleSuggest": "",
         "filename": "kupec_benatsky_007.md",
         "xhtml": "kupec_benatsky_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ TŘETÍ",
         "subtitleSuggest": "",
         "filename": "kupec_benatsky_008.md",
         "xhtml": "kupec_benatsky_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ ČTVRTÉ",
         "subtitleSuggest": "",
         "filename": "kupec_benatsky_009.md",
         "xhtml": "kupec_benatsky_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ PÁTÉ",
         "subtitleSuggest": "",
         "filename": "kupec_benatsky_010.md",
         "xhtml": "kupec_benatsky_010.xhtml"
@@ -312,6 +327,6 @@
       "user": "books-are-next",
       "repo": "shakespeare-kupec-benatsky"
     },
-    "generatedAt": 1649756021061
+    "generatedAt": 1649756904174
   }
 }

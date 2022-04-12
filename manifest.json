@@ -1,0 +1,354 @@
+{
+  "author": "William Shakespeare",
+  "contenttype": "prose",
+  "identifier": "shakespeare-kupec-benatsky-1d228e9",
+  "languagecode": "cs",
+  "modified": "2022-02-04T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Kupec benátský",
+  "revision": "1d228e9",
+  "generatedAt": {
+    "date": "Tue Apr 12 2022 09:49:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649756951533
+  },
+  "documents": [
+    {
+      "title": "Kupec benátský",
+      "file": "kupec_benatsky_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kupec_benatsky_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Kupec benátský",
+      "file": "kupec_benatsky_005.html",
+      "words": 79,
+      "chars": 608,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 1,
+      "prev": "kupec_benatsky_002.html",
+      "next": "kupec_benatsky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PRVNÍ • Kupec benátský",
+      "file": "kupec_benatsky_006.html",
+      "words": 3517,
+      "chars": 20293,
+      "ideas": 484,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kupec_benatsky_005.html",
+      "next": "kupec_benatsky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PRVNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. scéna",
+              "id": "3-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ DRUHÉ • Kupec benátský",
+      "file": "kupec_benatsky_007.html",
+      "words": 4913,
+      "chars": 28862,
+      "ideas": 740,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kupec_benatsky_006.html",
+      "next": "kupec_benatsky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ DRUHÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. scéna",
+              "id": "3-scéna",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. scéna",
+              "id": "4-scéna",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5. scéna",
+              "id": "5-scéna",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6. scéna",
+              "id": "6-scéna",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7. scéna",
+              "id": "7-scéna",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8. scéna",
+              "id": "8-scéna",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9. scéna",
+              "id": "9-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ TŘETÍ • Kupec benátský",
+      "file": "kupec_benatsky_008.html",
+      "words": 4791,
+      "chars": 27594,
+      "ideas": 718,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kupec_benatsky_007.html",
+      "next": "kupec_benatsky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ TŘETÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. scéna",
+              "id": "3-scéna",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. scéna",
+              "id": "4-scéna",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5. scéna",
+              "id": "5-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ ČTVRTÉ • Kupec benátský",
+      "file": "kupec_benatsky_009.html",
+      "words": 3287,
+      "chars": 19912,
+      "ideas": 587,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kupec_benatsky_008.html",
+      "next": "kupec_benatsky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ ČTVRTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PÁTÉ • Kupec benátský",
+      "file": "kupec_benatsky_010.html",
+      "words": 2168,
+      "chars": 12911,
+      "ideas": 386,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kupec_benatsky_009.html",
+      "next": "kupec_benatsky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PÁTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kupec benátský",
+      "file": "kupec_benatsky_011.html",
+      "words": 54,
+      "chars": 368,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kupec_benatsky_010.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Kupec benátský",
+      "file": "colophon.html",
+      "words": 94,
+      "chars": 626,
+      "ideas": 12,
+      "role": "colophon",
+      "order": null,
+      "prev": "kupec_benatsky_011.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 18908,
+      "chars": 111210,
+      "ideas": 2962
+    },
+    "chapters": {
+      "words": 18809,
+      "chars": 110548,
+      "ideas": 2947
+    }
+  }
+}

@@ -1,190 +1,187 @@
 ---
+title: JEDNÁNÍ TŘETÍ
 contentType: prose
 ---
 
-JEDNÁNÍ TŘETÍ
+## 1\. scéna
 
-1\. scéna
+_Benátky. – Ulice._
 
-Benátky. – Ulice.
+_Vystoupí SALANIO a SALARINO._
 
-Vystoupí SALANIO a SALARINO.
-
-SALANIO:
+**SALANIO**:
 
 Nuž, jaké noviny jsou na Rialtu?
 
-SALARINO:
+**SALARINO**:
 
 Do té chvíle tam nevyvráceno, že Antoniův koráb s bohatým nákladem v mořských úžinách se ztroskotal. Goodwins, tuším, ta místa jmenují; velmi nebezpečné mělčiny a osudné, kde prý leží pochovány trosky mnohé statné lodi, jest-li kmotra pověst vůbec poctivá žena od slova.
 
-SALANIO:
+**SALANIO**:
 
 Přál bych si, aby byla nejprolhanější klepnou, jaká kdy chrupala zázvor, aneb svým sousedkám namlouvala, že oplakává smrt třetího manžela. Ale bez okolků a odbočování od přímé cesty řeči, pravda jest, že dobrý Antonio, poctivý Antonio – ó kéž bych měl slova dost hodného, by provázelo jeho jméno! –
 
-SALARINO:
+**SALARINO**:
 
 Jen rychle, ke konci!
 
-SALANIO:
+**SALANIO**:
 
 Jak? Co povídáš? – Ano; konec jest, že o loď přišel.
 
-SALARINO:
+**SALARINO**:
 
 Přál bych si, aby to byl konec jeho ztrát.
 
-SALANIO:
+**SALANIO**:
 
 Nech mne zavčas říci „Amen“, sice mi ďábel splete modlitbu, neboť zde přichází v podobě Žida.
 
-Vystoupí SHYLOCK.
+_Vystoupí SHYLOCK._
 
 Nu, co, Shylocku; co nového jest mezi kupci?
 
-SHYLOCK:
+**SHYLOCK**:
 
 Vy jste věděli, a nikdo tak dobře, nikdo tak dobře jako vy, o útěku mé dcery.
 
-SALARINO:
+**SALARINO**:
 
 Toť se rozumí; a já znám krejčího, jenž jí zhotovil křídla k úletu.
 
-SALANIO:
+**SALANIO**:
 
 A Shylock zase ví, že byl ptáček opeřen a tak už to bývá v jejich povaze, že vylétají z hnízda.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Jest proto zatracena.
 
-SALARINO:
+**SALARINO**:
 
 Toť jisto, může-li být ďábel jejím soudcem.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Mé vlastní tělo a krev se bouří!
 
-SALANIO:
+**SALANIO**:
 
 Fi, stará zdechlino! – Bouří se v takovém stáří?
 
-SHYLOCK:
+**SHYLOCK**:
 
 Jářku, má dcera jest mé tělo a má krev.
 
-SALARINO:
+**SALARINO**:
 
 Mezi tělem tvým a jejím jest větší rozdíl než mezi černým achátem a slonovinou a mezi vaší krví větší různost než mezi vínem červeným a rýnským. Ale povězte nám, neslyšel jste, zdali utrpěl Antonio nějakou ztrátu na moři, či ne?
 
-SHYLOCK:
+**SHYLOCK**:
 
 Tu mám to druhé nadělení: bankrotář, marnotratník, který sotva smí vystrčiti hlavu na Rialtu; žebrák, jenž tak vyšňořen chodíval na trh. – Ať jen dbá svého zápisu. – Přezdíval mi lich­vářů; – ať dbá svého zápisu. Půjčovával peníze z křesťanské lásky; – ať jen dbá svého zápisu!
 
-SALARINO:
+**SALARINO**:
 
 Aj, vždyť jsem jist, že, propadne-li, masa z něho nevezmeš. Co s ním budeš dělat?
 
-SHYLOCK:
+**SHYLOCK**:
 
 Vnadit ryby; nenakrmí-li nic jiného, nakrmí mou pomstu. On mne potupil, o půl milionu výdělku mne připravil, smál se mým ztrátám, ušklíbal se nad mým ziskem, pohrdal mým národem, kazil mé obchody, ochlazoval mé přátele, rozněcoval mé protivníky; – a proč? – Že jsem Žid! – Cožpak Žid nemá očí? Nemá Žid rukou, ústrojův, těla úměru, smyslův, náklonností, vášní? Neživí-li se toutéž stravou, nezraněn-li touže zbraní, není-li podroben stejným neduhům, léčen stejnými prostředky, mrazen i ohříván touž zimou a týmž létem jako křesťan? Bodnete-li nás, zdaž nekrvácíme? – Lechtáte-li nás, zdaž se nesmějem? – Dáte-li nám jedu, zdaž neumíráme? – A ukřivdíte-li nám, zdaž nemáme se mstít? Když jsme jako vy ve všem ostatním, chcem vám být podobni i v tom. Ublíží-li Žid křesťanu, jaká jest jeho pokora? Pomsta. – Ublíží-li křesťan Židu, kam se má jeho trpělivost obrátit po příkladu křesťanském? K pomstě. – Zlobu, kteréž mne učíte, chci páchat; půjde to těžko, ale já předčím vaše návody.
 
-Vystoupí SLOUŽÍCÍ.
+_Vystoupí SLOUŽÍCÍ._
 
-SLOUŽÍCÍ:
+**SLOUŽÍCÍ**:
 
 Pánové, Antonio, můj pán, jest doma a přeje si mluvit s vámi oběma.
 
-SALARINO:
+**SALARINO**:
 
 Po celém městě jsme ho hledali.
 
-Vystoupí TUBAL.
+_Vystoupí TUBAL._
 
-SALANIO:
+**SALANIO**:
 
 Zde přichází druhý z té čeládky; třetí se k nim tak hned nenajde, leda by se sám ďábel požidovštěl.
 
-Odejdou SALANIO, SALARINO a SLOUŽÍCÍ.
+_Odejdou SALANIO, SALARINO a SLOUŽÍCÍ._
 
-SHYLOCK:
+**SHYLOCK**:
 
 Nuže, Tubale! Co nového z Janova? Našels mou dceru?
 
-TUBAL:
+**TUBAL**:
 
 Několikrát jsem přišel tam, kde jsem o ní slyšel, ale nalézti ji nemohu.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Aj, tak, tak, tak! Diamant ten tam, dva tisíce dukátů mne stál ve Frankobrodě! Nikdy dřív, až teď, nepadla kletba na můj lid; já ji nikdy necítil, až teď. Dva tisíce dukátů jen v tom a jiné drahé, drahé klenoty. Chtěl bych, aby má dcera ležela mi mrtva u nohou a měla ty klenoty v uších! Chtěl bych, aby ležela na marách u mých noh s těmi dukáty v rakvi! – Žádné zvěsti o nich? Tak tak; – a nevím ani, co se utratilo pátráním. – Ztráta na ztrátu! Zloděj odnese tolik, a tolik stojí mne hledání zloděje. A žádného dostiučinění, žádné pomsty. A nikde se nehne neštěstí, jen to, co na mé plece dopadá; nikde vzdechu, krom toho, jejž vydechnu já, nikde slzí než ty, jež vypláču sám!
 
-TUBAL:  
-Inu, také jiní lidé mají neštěstí: Antonio, jak doslechl jsem v Janově –
+**TUBAL**:Inu, také jiní lidé mají neštěstí: Antonio, jak doslechl jsem v Janově –
 
-SHYLOCK:
+**SHYLOCK**:
 
 Jak, jak, jak? Neštěstí, neštěstí?
 
-TUBAL:
+**TUBAL**:
 
 – přišel o koráb na cestě z Tripole.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Bohudíky, bohudíky! Je to pravda, je to pravda?
 
-TUBAL:
+**TUBAL**:
 
 Mluvil jsem s několika plavci, kteří z trosek unikli.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Děkuji ti, dobrý Tubale. Dobrá novina, dobrá novina! Ha, ha! Kde? V Janově?
 
-TUBAL:
+**TUBAL**:
 
 Vaše dcera utratila v Janově, jak jsem slyšel, za jednu noc osmdesát dukátů.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Vrážíš dýku do mne! Co živ již neuvidím svoje zlato. Osmdesát dukátů na jedno posezení! Osmdesát dukátů!
 
-TUBAL:
+**TUBAL**:
 
 Sem do Benátek jelo se mnou několik Antoniových věřitelů a ti přísahají, že musí přijíti na mizinu.
 
-SHYLOCK:
+**SHYLOCK**:
 
 To mne velmi těší; budu ho trýznit, budu ho mučit; – to mne těší.
 
-TUBAL:
+**TUBAL**:
 
 Jeden z nich mi ukazoval prsten, jejž dostal od vaší dcery za opici.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Mor na ni! Ty mne mučíš, Tubale; to byl můj tyrkys. Dala mi ho Leah ještě za svobodna. Nebyl bych ho dal za celý prales opic.
 
-TUBAL:
+**TUBAL**:
 
 Ale Antonio jest opravdu zničen.
 
-SHYLOCK:
+**SHYLOCK**:
 
 Ba pravda, na vlas pravda. Jdi, Tubale, a zjednej mi drába; zamluv ho o čtrnáct dní napřed. Chci jeho srdce mít, když propadne, neboť nebude-li ho v Benátkách, mohu obchodovat, jak chci. Jdi, jdi, Tubale, a přijď za mnou do synagogy. Jdi, dobrý Tubale; – do naší synagogy, Tubale.
 
-Odejdou.
+_Odejdou._
 
-2\. scéna
+## 2\. scéna
 
-Belmont. – Komnata v domě Portiině.
+_Belmont. – Komnata v domě Portiině._
 
-Vystoupí BASSANIO, PORTIE, GRATIANO, NERISSA a DRUŽINA.
+_Vystoupí BASSANIO, PORTIE, GRATIANO, NERISSA a DRUŽINA._
 
-PORTIE:  
-Jen, prosím, sečkejte; den nebo dva  
+**PORTIE**:Jen, prosím, sečkejte; den nebo dva  
 se zdržte, nežli osud zkusíte,  
 neb zvolíte-li chybně, ztracena  
 mi vaše společnost; tož prodlete.  
@@ -217,42 +214,34 @@ bych oddálila čas, jej provlekla
 a prodloužila a tak zdržela  
 vás před volbou.
 
-BASSANIO:  
-                               Již volit nechte mne,  
+**BASSANIO**:                               Již volit nechte mne,  
 neb tak jsem jako na mučidle živ.
 
-PORTIE:  
-Že na mučidle jste, Bassanio?  
+**PORTIE**:Že na mučidle jste, Bassanio?  
 Tož přiznejte se, jaká zrada skrývá  
 se v lásce vaší?
 
-BASSANIO:  
-                           Jenom ošklivá  
+**BASSANIO**:                           Jenom ošklivá  
 ta zrada nedůvěry, budící  
 strach o splnění blaha lásky mé.  
 Tak právě moh by žíti v přátelství  
 sníh s ohněm, jak má láska se zradou.
 
-PORTIE:  
-Přec bojím se, že na mučidle jen  
+**PORTIE**:Přec bojím se, že na mučidle jen  
 tak mluvíte, kde lidé nuceni  
 jsou mluviti, ať již to cokoliv.
 
-BASSANIO:  
-Mně život přislibte a vyznám pravdu.
+**BASSANIO**:Mně život přislibte a vyznám pravdu.
 
-PORTIE:  
-Nuž, tedy vyznejte a buďte živ.
+**PORTIE**:Nuž, tedy vyznejte a buďte živ.
 
-BASSANIO:  
-Ba vyznat se a býti v lásce živ  
+**BASSANIO**:Ba vyznat se a býti v lásce živ  
 jest všechen obsah mojí zpovědi.  
 Ó blahá muka, když můj trýznitel  
 mne učí odpovídat k spáse mé!  
 Leč, nechť svůj los již najdu u skřínek!
 
-PORTIE:  
-Nuž, buďsi; v jedné z nich jsem uzamčena  
+**PORTIE**:Nuž, buďsi; v jedné z nich jsem uzamčena  
 a milujete-li, mne najdete.  
 Ty, Nerisso i druzí, odstupte.  
 Ať hudba zní, když k volbě přikročí!  
@@ -280,26 +269,25 @@ Jdi, Herakle! – Tvým žitím žiju já;
 a větší obava mi srdce mrazí,  
 jak dívám se, než tomu, kdo v boj vchází.
 
-Hudba mezi tím, co BASSANIO hledí zamyšlen na skřínky.
+_Hudba mezi tím, co BASSANIO hledí zamyšlen na skřínky._
 
-_(Zpěv.)  
+__(Zpěv.)  
 Pověz, kde se láska skrývá,  
 v hlavě-li, či v srdci bývá?  
 jak se rodí, čím jest živa?  
-     Odpověz mi, odpověz._
+     Odpověz mi, odpověz.__
 
-_Zrak ji rodí, pohled pase;  
+__Zrak ji rodí, pohled pase;  
 láska žije, zmírá zase  
 v kolébce, kde houpala se –  
      Hlaste hranou lásky skon;  
-     bim, bam, bim; – já houpám zvon._
+     bim, bam, bim; – já houpám zvon.__
 
-SBOR:
+**SBOR**:
 
      _Bim, bam, bim._
 
-BASSANIO:  
-Tak zdání zevnější můž nejméně  
+**BASSANIO**:Tak zdání zevnější můž nejméně  
 se shodovati s pravou podstatou.  
 Svět okrasami stále mámen jest.  
 Kde v právu pře tak porušené, křivé,  
@@ -342,7 +330,7 @@ jež více hrozíš, nežli slibuješ;
 tvůj prostý zjev mi nad výmluvnost jesti;  
 a volím zde; – kéž vzejde z toho štěstí!
 
-PORTIE _(stranou)_:  
+**PORTIE** _(stranou)_:  
 Jak všechny jiné city přešly v dým!  
 vše pochybnosti s náhlým zoufalstvím,  
 zlá žárlivost a bázeň mrazivá! –  
@@ -351,7 +339,7 @@ stav hojnost svou, slast mírně deštit nech;
 jsem šťastna přespříliš v tvých darech všech;  
 své blaho umenši, sic zalknu se. –
 
-BASSANIO _(otvírá olověnou skřínku)_:  
+**BASSANIO** _(otvírá olověnou skřínku)_:  
 Co vidím? – Obraz krásné Portie!  
 Kdo z polobohů přiblížil se kdy  
 tak přírodě? Zda hýbou se ty oči,  
@@ -394,8 +382,7 @@ tak, třikrát krásná paní, tady státi
 mne v pochybách, zda pravdu vidím, zříte,  
 než sama souhlasem vše potvrdíte.
 
-PORTIE:  
-Done Bassanio, zde vidíte  
+**PORTIE**:Done Bassanio, zde vidíte  
 mne státi tak, jak jsem. Ač pro sebe  
 tak nejsem ctižádostiva, bych přála si  
 být mnohem lepší, přece k vůli vám  
@@ -427,8 +414,7 @@ jej ztratíte neb dáte někomu,
 to bude značit vaší lásky zmar  
 a mně dá podnět k trpké žalobě.
 
-BASSANIO:  
-Všech slov jste zbavila mne, paní má,  
+**BASSANIO**:Všech slov jste zbavila mne, paní má,  
 a jen mých tepen krev k vám hovoří.  
 Vše síly mé jsou v zmatku takovém,  
 jak uchvacuje zradostněný dav,  
@@ -441,14 +427,12 @@ až od mého se prstu odloučí,
 i život půjde s ním. Ó směle pak  
 jen řekněte: Bassanio jest mrtev!
 
-NERISSA:  
-Teď, pane můj a paní, na nás jest,  
+**NERISSA**:Teď, pane můj a paní, na nás jest,  
 kdož stranou stáli jsme a viděli  
 svá přání vzkvétat, bychom zvolali:  
 Zdar, štěstí, pane náš i velitelko!
 
-GRATIANO:  
-Done Bassanio a vzácná slečno,  
+**GRATIANO**:Done Bassanio a vzácná slečno,  
 vše blaho přeji vám, jež sami jen  
 si přáti můžete, neb vím, též vy  
 že žádného mne zbavit nechcete.  
@@ -457,12 +441,10 @@ své věrné lásky vyměňovat slib,
 tož, prosím, dovolte, bych zároveň  
 směl s vámi svatbu mít.
 
-BASSANIO:  
-                                          Ze srdce rád,  
+**BASSANIO**:                                          Ze srdce rád,  
 jen jestli sobě ženu opatříš.
 
-GRATIANO:  
-Dík, pane! vy jste mi ji opatřil.  
+**GRATIANO**:Dík, pane! vy jste mi ji opatřil.  
 Můj zrak tak bystře hledí jako váš;  
 vy paní viděl jste, já společnici.  
 Vy miloval jste, já pak mezitím;  
@@ -476,73 +458,60 @@ až patro vyschlo mi, jsem nakonec
 slib dostal, mou že lásku oplatí,  
 když vaše u paní mít bude zdar.
 
-PORTIE:  
-To pravda, Nerisso?
+**PORTIE**:To pravda, Nerisso?
 
-NERISSA:  
-                                       Má slečno, jest,  
+**NERISSA**:                                       Má slečno, jest,  
 když ráčíte jen k tomu svoliti.
 
-BASSANIO:  
-A myslíte to vážně, Gratiano?
+**BASSANIO**:A myslíte to vážně, Gratiano?
 
-GRATIANO:  
-To vskutku, pane.
+**GRATIANO**:To vskutku, pane.
 
-BASSANIO:  
-                                         Tedy velice  
+**BASSANIO**:                                         Tedy velice  
 náš sňatek bude vaší svatbou poctěn.
 
-GRATIANO:  
-Za první klouče tisíc dukátů!
+**GRATIANO**:Za první klouče tisíc dukátů!
 
-NERISSA:  
-Jak – sázka?
+**NERISSA**:Jak – sázka?
 
-GRATIANO:  
-                         Ne, tu bychom nevyhráli,  
+**GRATIANO**:                         Ne, tu bychom nevyhráli,  
 než zřídíme si vlastní posadu.  
 Však hle, Lorenzo se svou pohankou!  
 A s ním Salerio, můj starý druh.
 
-Vystoupí LORENZO, JESSIKA, SALERIO a POSEL z Benátek.
+_Vystoupí LORENZO, JESSIKA, SALERIO a POSEL z Benátek._
 
-BASSANIO:  
-Lorenzo, buďte vítán; a vy též,  
+**BASSANIO**:Lorenzo, buďte vítán; a vy též,  
 Salerio, zde vůbec vítat-li  
 mi novost mého stavu připouští.  
 Vy dovolíte, drahá Portie,  
 bych vítal přátele a krajany.
 
-PORTIE:  
-Já s vámi; jsou tu mile vítáni.
+**PORTIE**:Já s vámi; jsou tu mile vítáni.
 
-LORENZO:  
-Dík Vašim Vzácnostem. – Já, pane, sám  
+**LORENZO**:Dík Vašim Vzácnostem. – Já, pane, sám  
 jsem nehodlal vás navštíviti zde,  
 však cestou potkal jsem Saleria,  
 jenž naléhal, že odříci jsem nemoh,  
 bych k vám jej doprovodil.
 
-SALERIO:  
+**SALERIO**:  
                                           Ano, pane;  
 já prosil jej a mám své příčiny.  
 Signor Antonio jej doporoučí.  
 _(Podává BASSANIOVI list.)_
 
-BASSANIO:  
-Dřív nežli jeho dopis otevru,  
+**BASSANIO**:Dřív nežli jeho dopis otevru,  
 mi, prosím, povězte, jakže se má  
 můj dobrý přítel?
 
-SALERIO:  
+**SALERIO**:  
                              Není nemocen,  
 můj pane, leda že snad na mysli;  
 ni zdráv, krom zdráv-li není na duchu.  
 Ten dopis objeví vám jeho stav.
 
-GRATIANO:  
-Tu cizinku přec pozdrav, Nerisso,  
+**GRATIANO**:Tu cizinku přec pozdrav, Nerisso,  
 a uvítej ji. Vy, Salerio,  
 mi ruku podejte. Co nového  
 jest v Benátkách? Jak má se tam  
@@ -551,13 +520,12 @@ Vím, že se naším zdarem potěší;
 jsme Jasonové zde a dobyli  
 jsme rouna zlatého.
 
-SALERIO:  
+**SALERIO**:  
                                    Já bych si přál,  
 jen byste byli rouna dobyli,  
 jež ztratil on.
 
-PORTIE:  
-                         V tom jeho dopisu  
+**PORTIE**:                         V tom jeho dopisu  
 jest obsah neblahý, neb všechnu barvu  
 z Bassaniovy tváře ukrádá.  
 Toť zemřel drahý přítel nějaký;  
@@ -568,8 +536,7 @@ jsemť vaše polovice, náleží
 mi také půle všeho, co ten list  
 vám přináší.
 
-BASSANIO:  
-                    Ó, drahá Portie,  
+**BASSANIO**:                    Ó, drahá Portie,  
 toť několik jest nejsmutnějších slov,  
 jež třísnila kdy papír. – Dobrá slečno,  
 když nejprv jsem vám vyznal lásku svou,  
@@ -597,7 +564,7 @@ A jediný že koráb neušel,
 ni jeden, strašlivému nárazu  
 těch skalin lodě v trosky tříštících?
 
-SALERIO:  
+**SALERIO**:  
 Ni jeden, pane můj. A mimo to  
 jak zdá se, kdyby peníze i měl,  
 by Židu zaplatil, Žid nevzal by jich.  
@@ -613,8 +580,7 @@ mu domlouvali, ale nikdo z nich
 jej nemůž odvrátit od zlobné pře  
 stran propadlosti práva zápisu.
 
-JESSIKA:  
-Když doma byla jsem, já slyšela,  
+**JESSIKA**:Když doma byla jsem, já slyšela,  
 jak Tubalovi zapřísahal se  
 a Chusovi, svým rodákům, že spíš  
 Antoniova chce masa dostati  
@@ -623,25 +589,20 @@ již jest mu dlužen; a já, pane, vím,
 když zákon, moc a řád se neoprou,  
 že zle se bude dít s Antoniem.
 
-PORTIE:  
-A jest to tedy drahý přítel váš,  
+**PORTIE**:A jest to tedy drahý přítel váš,  
 jenž nalézá se v této nesnázi?
 
-BASSANIO:  
-Můj přítel nejdražší, muž nejvlídnější,  
+**BASSANIO**:Můj přítel nejdražší, muž nejvlídnější,  
 duch nejlepší a ve své ochotě  
 vždy neunavný; muž, jenž vyniká  
 ctí starořímskou víc než kdokoliv  
 zde v Itálii.
 
-PORTIE:  
-                    Co jest Židu dlužen?
+**PORTIE**:                    Co jest Židu dlužen?
 
-BASSANIO:  
-Dluh za mne, tři tisíce dukátů.
+**BASSANIO**:Dluh za mne, tři tisíce dukátů.
 
-PORTIE:  
-Nic více? Dvakrát tolik dejte mu  
+**PORTIE**:Nic více? Dvakrát tolik dejte mu  
 a zničte zápis; ano zdvojnásobte  
 tu sumu, potom ztrojnásobte ji,  
 než aby přítel rázu takého  
@@ -660,39 +621,34 @@ Zde vítáni ať přátelé jsou vaši!
 Tak draze koupen, jste mi ještě dražší.  
 Však přečtěte mi dopis přítelův.
 
-BASSANIO _(čte)_:
+**BASSANIO** _(čte)_:
 
 _„Milý Bassanio – všechny moje koráby jsou ztraceny, věřitelé stávají se krutými, moje jmění jest na úpadku, můj zápis Židovi propadlý; a poněvadž jest nemožno, abych jich zaplacením zůstal na živu, jsou všechny dluhy mezi vámi a mnou vyrovnány. Chtěl bych vás jen ještě vidět při své smrti. Nicméně učiňte, jak vám libo. Nemá-li vás vaše láska k tomu, abyste přišel, můj list vás nenuť.“_
 
-PORTIE:  
-Můj milenče, vše rychle obstarejte,  
+**PORTIE**:Můj milenče, vše rychle obstarejte,  
 ať jste již na cestě!
 
-BASSANIO:  
-Když dovolujete mi odejít,  
+**BASSANIO**:Když dovolujete mi odejít,  
 vše uspíším; však než se vrátím zas,  
 mne spánek nezdrží; a oddech, klid  
 se nesmí vloudit mezi mne a vás.
 
-Odejdou.
+_Odejdou._
 
-3\. scéna
+## 3\. scéna
 
-Benátky. – Ulice.
+_Benátky. – Ulice._
 
-Vystoupí SHYLOCK, SALARINO, ANTONIO a ŽALÁŘNÍK.
+_Vystoupí SHYLOCK, SALARINO, ANTONIO a ŽALÁŘNÍK._
 
-SHYLOCK:  
-Dej, žalářníku, pozor na něho  
+**SHYLOCK**:Dej, žalářníku, pozor na něho  
 a nemluv o milosti; blázen to,  
 jenž zdarma rozpůjčoval peníze.  
 Dej, žalářníku, pozor na něho.
 
-ANTONIO:  
-Slyš, dobrý Shylocku!
+**ANTONIO**:Slyš, dobrý Shylocku!
 
-SHYLOCK:  
-                                            Svůj zápis chci;  
+**SHYLOCK**:                                            Svůj zápis chci;  
 nic nemluv proti mému zápisu;  
 já přísahal, že chci, co upsáno.  
 Ty zvals mne psem, než příčiny jsi měl,  
@@ -702,11 +658,9 @@ Já divím se, ty drábe ničemný,
 tvé dobrotě, žes k jeho žádosti  
 s ním vyšel z vězení.
 
-ANTONIO:  
-                                  Jen, prosím, slyš.
+**ANTONIO**:                                  Jen, prosím, slyš.
 
-SHYLOCK:  
-Svůj zápis chci a tebe slyšet nechci;  
+**SHYLOCK**:Svůj zápis chci a tebe slyšet nechci;  
 svůj zápis chci, a proto nemluv nic.  
 To nedám ze sebe si udělat,  
 bych slabý byl a uslzený bloud  
@@ -716,24 +670,20 @@ Již nechoď za mnou, nechci dalších řečí:
 chci setrvati na svém zápisu.  
 _(Odejde.)_
 
-SALARINO:  
-Toť nejkrutější hafan, jaký kdy  
+**SALARINO**:Toť nejkrutější hafan, jaký kdy  
 byl mezi lidmi.
 
-ANTONIO:  
-                              Již ho nechte být;  
+**ANTONIO**:                              Již ho nechte být;  
 dál s marnou prosbou za ním nepůjdu.  
 Mé bezživotí hledá; však vím proč:  
 já často z jeho pokut vyprostil  
 jsem dlužníky, když posteskli si mi,  
 a proto jeho zášť.
 
-SALARINO:  
-                              K té pokutě  
+**SALARINO**:                              K té pokutě  
 však vévoda mu nikdy nesvolí.
 
-ANTONIO:  
-Běh práva nemůž zdržet vévoda;  
+**ANTONIO**:Běh práva nemůž zdržet vévoda;  
 neb kdyby ztenčily se výhody,  
 jež cizinci zde mají v Benátkách,  
 tím spravedlnost jeho úřadu  
@@ -748,16 +698,15 @@ Pojď, žalářníku. – Dejž jen bůh, by přišel
 Bassanio se na mne podívat,  
 jak platím zaň; pak děj se již, co děj!
 
-Odejdou.
+_Odejdou._
 
-4. scéna
+## 4. scéna
 
-Belmont. – Komnata v domě Portiině.
+_Belmont. – Komnata v domě Portiině._
 
-Vystoupí PORTIE, NERISSA, LORENZO, JESSIKA a BALTAZAR.
+_Vystoupí PORTIE, NERISSA, LORENZO, JESSIKA a BALTAZAR._
 
-LORENZO:  
-Ač mluvím tak u vaší přítomnosti,  
+**LORENZO**:Ač mluvím tak u vaší přítomnosti,  
 přec dovolte mi říci, paní má,  
 jak šlechetným a opravdovým citem  
 jste nadána pro božské přátelství;  
@@ -770,8 +719,7 @@ vy jistě byla byste hrdější
 na dílo to, než štědrost obvyklá  
 by kdy vás k tomu mohla pohnouti.
 
-PORTIE:  
-Já nikdy nelitovala, cos dobrého  
+**PORTIE**:Já nikdy nelitovala, cos dobrého  
 když učinila jsem; – tak ani teď  
 mi není toho žel; neb mezi druhy  
 již spolu obcují a tráví čas,  
@@ -798,29 +746,24 @@ chcem pomeškati. Prosím, službu tu
 mi neodřekněte, již láska má  
 a jakás nutnost teď vám ukládá.
 
-LORENZO:  
-Má paní, ze srdce ji přijímám  
+**LORENZO**:Má paní, ze srdce ji přijímám  
 a vykonám vše milé rozkazy.
 
-PORTIE:  
-Mé služebnictvo zná již vůli mou  
+**PORTIE**:Mé služebnictvo zná již vůli mou  
 a uposlechne vás a Jessiku  
 jak samého Bassania a mne.  
 A tedy s bohem; na shledanou zas!
 
-LORENZO:  
-Ať krásné myšlenky vás provázejí  
+**LORENZO**:Ať krásné myšlenky vás provázejí  
 a šťastné hodiny!
 
-JESSIKA:  
-                                        Já, vzácná paní,  
+**JESSIKA**:                                        Já, vzácná paní,  
 vám celým srdcem přeji spokojenost.
 
-PORTIE:  
-Můj dík za vaše přání; navzájem  
+**PORTIE**:Můj dík za vaše přání; navzájem  
 vám totéž přeji. S bohem, Jessiko.
 
-Odejdou JESSIKA a LORENZO.
+_Odejdou JESSIKA a LORENZO._
 
 Teď, Baltazare, slyš!  
 Tys býval vždycky věrně spolehliv  
@@ -835,20 +778,16 @@ tam na obecný přívoz k Benátkám.
 Čas netrať slovy, hleď, ať jsi už pryč;  
 já ještě dříve budu tam než ty.
 
-BALTAZAR:  
-Již chvátám, paní má, co stačím jen.  
+**BALTAZAR**:Již chvátám, paní má, co stačím jen.  
 _(Odejde.)_
 
-PORTIE:  
-Pojď, Nerisso, mám něco na mysli,  
+**PORTIE**:Pojď, Nerisso, mám něco na mysli,  
 co ještě nevíš; spatříme své muže  
 dřív, než se nadějí.
 
-NERISSA:  
-                                 A oni nás?
+**NERISSA**:                                 A oni nás?
 
-PORTIE:  
-Též uvidí; leč v takém oděvu,  
+**PORTIE**:Též uvidí; leč v takém oděvu,  
 že budou u nás předpokládati,  
 co schází nám. Já vsadím se, my dvě  
 když za mladíky vystrojíme se,  
@@ -871,109 +810,106 @@ jim namluvím, až budou přísahat,
 Mám v hlavě tisíc rozpustilých kousků  
 těch drzých oslíků, jež provést chci.
 
-NERISSA:  
-My tedy hochy budem dělati?
+**NERISSA**:My tedy hochy budem dělati?
 
-PORTIE:  
-Fi! – Jaká otázka? Tak někde být  
+**PORTIE**:Fi! – Jaká otázka? Tak někde být  
 zde jakýs uštěpačný vykládač!  
 Však pojď, svůj celý záměr povím ti,  
 až budem v kočáře, jenž čeká na nás  
 již u vrat parku; nyní jenom pil,  
 neb musíme dnes ujet dvacet mil.
 
-Odejdou.
+_Odejdou._
 
-5\. scéna
+## 5\. scéna
 
-Tamtéž. – Zahrada.
+_Tamtéž. – Zahrada._
 
-Vystoupí LAUNCELOT a JESSIKA.
+_Vystoupí LAUNCELOT a JESSIKA._
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Ba pravda! Neboť vězte, hříchy otcův padají na hlavy dítek; proto, ujišťuji vás, mám o vás strach. Byl jsem k vám vždycky upřímným, a tak vám svěřuji svou dešperaci v této věci. Tedy buďte jen dobré mysli, neboť vpravdě, domnívám se, že jste na věky zatracena. Zbývá v tom jen jediná naděje, která vám může trochu prospěti; a to jest jen jakýsi druh pronevěrné naděje.
 
-JESSIKA:
+**JESSIKA**:
 
 A jaká naděje to jest, prosím tě?
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Inu, můžete tak částečně doufat, že nepocházíte od svého otce, že nejste dcera Židova.
 
-JESSIKA:
+**JESSIKA**:
 
 To by vskutku byl jakýsi druh pronevěrné naděje; tak bych byla navštívena hříchy své matky.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Tedy se opravdu bojím, že jste zatracena po otci i po matce. A tak, vyhnu-li se Scylle, vašemu otci, upadám do Charybdy, vaší matky; – dobrá, po vás je veta zde i tam.
 
-JESSIKA:
+**JESSIKA**:
 
 Dojdu spasení svým manželem; on učinil mne křesťankou.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Jářku, tím hůře pro něho; byloť nás křesťanů i předtím právě dost; zrovna tolik, abysme mohli býti živi jeden vedle druhého. Toto předělávání na křesťany vyžene do výše ceny vepřů; a budou-li z nás všech jedlíci vepřoviny, nedostaneme zakrátko kouska slaniny na pekáč ani za peníze.
 
-Vystoupí LORENZO.
+_Vystoupí LORENZO._
 
-JESSIKA:
+**JESSIKA**:
 
 Launcelote, řeknu to svému manželu, co jste povídal. Zde přichází.
 
-LORENZO:
+**LORENZO**:
 
 Budu na vás hnedle žárlivým, Launcelote, začnete-li mou ženu tak do koutků zatahovat.
 
-JESSIKA:
+**JESSIKA**:
 
 Ne, o nás se nebojte, Lorenzo; jsme s Launcelotem rozkmotřeni. On mi tu z čista jasna povídá, že není pro mne spásy v nebesích, protože jsem dcera Židova, a praví, že nejste spořádaný člen obce, neboť obraceje Židy na křesťanství, vyháníte prý do výše cenu vepřového masa.
 
-LORENZO:
+**LORENZO**:
 
 To si lépe u obce zodpovím než vy obrácení té černošky; té mouřenince dostalo se od vás skutečného požehnání, Launcelote.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 To je opravdu div, že se dala mouřeninka tak omýt; ale byla-li při tom lehčí než poctivá žena, jest nyní těžší, než jsem za to měl.
 
-LORENZO:
+**LORENZO**:
 
 Jak umí každý blázen slovy zahrávat! Myslím, že zakrátko nejvýbornější vtip uzná za dobré mlčet a hovor stane se chvály hodným jen u papoušků. Jdi, brachu, do domu a řekni, aby se chystali k obědu.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 To se již stalo, pane; mají všichni žaludky.
 
-LORENZO:
+**LORENZO**:
 
 Můj ty bože; – jak lapáš po vtipu! – Tedy, řekni jim, aby chystali oběd.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 To se také už stalo, pane; „prostřít“ se říká.
 
-LORENZO:
+**LORENZO**:
 
 Ať se tedy prostírá.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Já se prostírat nebudu; vím, co se na mne sluší.
 
-LORENZO:
+**LORENZO**:
 
 Pořád to šprýmařství za každou cenu! Cožpak chceš vykramařit celou zásobu svého vtipu najednou? Prosím tě, rozuměj prosté řeči prostého muže: dojdi k svým soudruhům, řekni jim, aby prostřeli na stůl, aby nosili jídla a my že přijdeme k obědu.
 
-LAUNCELOT:
+**LAUNCELOT**:
 
 Stůl, pane, se přinese, jídla budou prostřena, a co se vašeho příchodu k obědu týče, staň se dle vaší vůle a libosti. _(Odejde.)_
 
-LORENZO:  
-Ó rozume, jak strojená to řeč!  
+**LORENZO**:Ó rozume, jak strojená to řeč!  
 Ten pošetilec vštípil do paměti  
 si celé vojsko hříček obratných;  
 a mnohé blázny znám na lepších místech,  
@@ -982,8 +918,7 @@ jest nad věc samu. – Jessiko, jak jest?
 A nyní přec mi pověz, drahoušku,  
 jak líbí se ti choť Bassaniova?
 
-JESSIKA:  
-Ó, nevýslovně! – Slušno bude teď,  
+**JESSIKA**:Ó, nevýslovně! – Slušno bude teď,  
 by don Bassanio žil rozšafně;  
 neb maje tolik štěstí v choti své,  
 má na zemi již rajskou blaženost;  
@@ -996,25 +931,19 @@ k té druhé muselo by v sázku dát
 se ještě něco; neb náš chudý svět  
 jí nemá rovné.
 
-LORENZO:  
-                           Právě takého  
+**LORENZO**:                           Právě takého  
 máš na mně muže jako ženu on.
 
-JESSIKA:  
-V tom na mé mínění se zeptejte.
+**JESSIKA**:V tom na mé mínění se zeptejte.
 
-LORENZO:  
-Toť hned; však napřed pojďme k obědu.
+**LORENZO**:Toť hned; však napřed pojďme k obědu.
 
-JESSIKA:  
-Ne, dej se chválit, dokud chuti mám.
+**JESSIKA**:Ne, dej se chválit, dokud chuti mám.
 
-LORENZO:  
-To, prosím, buď nám stolní zábavou;  
+**LORENZO**:To, prosím, buď nám stolní zábavou;  
 neb ať si pak už mluvíš cokoli,  
 vše spolknu.
 
-JESSIKA:  
-                            Nuže, řeknu ti, co jsi.
+**JESSIKA**:                            Nuže, řeknu ti, co jsi.
 
-Odejdou.
+_Odejdou._

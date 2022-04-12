@@ -1,69 +1,68 @@
 ---
+title: OSOBY
 contentType: prose
 ---
 
-OSOBY
+  
+
+**VÉVODA BENÁTSKÝ**
 
   
 
-VÉVODA BENÁTSKÝ
+**PRINC MAROKÁNSKÝ**, **PRINC ARAGONSKÝ**, nápadníci Portiini
 
   
 
-PRINC MAROKÁNSKÝ, PRINC ARAGONSKÝ, nápadníci Portiini
+**ANTONIO**, kupec benátský
 
   
 
-ANTONIO, kupec benátský
+**BASSANIO**, jeho přítel
 
   
 
-BASSANIO, jeho přítel
+**SALANIO**, **SALARINO**, **GRATIANO**, **SALERIO**, přátelé Antoniovi a Bassaniovi
 
   
 
-SALANIO, SALARINO, GRATIANO, SALERIO, přátelé Antoniovi a Bassaniovi
+**LORENZO**, milenec Jessičin
 
   
 
-LORENZO, milenec Jessičin
+**SHYLOCK**, bohatý Žid
 
   
 
-SHYLOCK, bohatý Žid
+**TUBAL**, Žid, jeho přítel
 
   
 
-TUBAL, Žid, jeho přítel
+**LAUNCELOT GOBBO**, sluha Shylockův
 
   
 
-LAUNCELOT GOBBO, sluha Shylockův
+**STARÝ GOBBO**, otec Launcelotův
 
   
 
-STARÝ GOBBO, otec Launcelotův
+**LEONARDO**, sloužící Bassaniův
 
   
 
-LEONARDO, sloužící Bassaniův
+**BALTAZAR**, **STEFANO**, sloužící Portiini
 
   
 
-BALTAZAR, STEFANO, sloužící Portiini
+**PORTIE**, bohatá dědička
 
   
 
-PORTIE, bohatá dědička
+**NERISSA**, její společnice
 
   
 
-NERISSA, její společnice
+**JESSIKA**, dcera Shylockova
 
-  
+_Benátští šlechtici. Senátoři a úředníci při soudním dvoru. Žalářník. Služebnictvo Portiino a jiná družina._
 
-JESSIKA, dcera Shylockova
-
-Benátští šlechtici. Senátoři a úředníci při soudním dvoru. Žalářník. Služebnictvo Portiino a jiná družina.
-
-Dějiště: Benátky a Belmont, sídlo Portiino na pevnině.
+_Dějiště: Benátky a Belmont, sídlo Portiino na pevnině._
