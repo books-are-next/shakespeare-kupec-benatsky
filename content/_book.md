@@ -20,11 +20,28 @@ readingOrder:
   - kupec_benatsky_008.html
   - kupec_benatsky_009.html
   - kupec_benatsky_010.html
-  - kupec_benatsky_011.html
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: kupec_benatsky_005.html
+        title: OSOBY
+        hiddenTitle: false
+      - link: kupec_benatsky_006.html
+        title: JEDNÁNÍ PRVNÍ
+        hiddenTitle: false
+      - link: kupec_benatsky_007.html
+        title: JEDNÁNÍ DRUHÉ
+        hiddenTitle: false
+      - link: kupec_benatsky_008.html
+        title: JEDNÁNÍ TŘETÍ
+        hiddenTitle: false
+      - link: kupec_benatsky_009.html
+        title: JEDNÁNÍ ČTVRTÉ
+        hiddenTitle: false
+      - link: kupec_benatsky_010.html
+        title: JEDNÁNÍ PÁTÉ
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
