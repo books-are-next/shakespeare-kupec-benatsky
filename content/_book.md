@@ -1,36 +1,36 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Kupec benátský
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: William Shakespeare
+  publisher: Městská knihovna v Praze
+  modified: '2022-02-04T00:00:00.000Z'
+readingOrder:
+  - kupec_benatsky_001.html
+  - kupec_benatsky_002.html
+  - kupec_benatsky_003.html
+  - kupec_benatsky_004.html
+  - kupec_benatsky_005.html
+  - kupec_benatsky_006.html
+  - kupec_benatsky_007.html
+  - kupec_benatsky_008.html
+  - kupec_benatsky_009.html
+  - kupec_benatsky_010.html
+  - kupec_benatsky_011.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
