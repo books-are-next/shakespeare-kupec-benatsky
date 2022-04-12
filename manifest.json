@@ -1,16 +1,16 @@
 {
   "author": "William Shakespeare",
   "contenttype": "prose",
-  "identifier": "shakespeare-kupec-benatsky-1d228e9",
+  "identifier": "shakespeare-kupec-benatsky-0bea9fd",
   "languagecode": "cs",
   "modified": "2022-02-04T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Kupec benátský",
-  "revision": "1d228e9",
+  "revision": "0bea9fd",
   "generatedAt": {
-    "date": "Tue Apr 12 2022 09:49:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649756951533
+    "date": "Tue Apr 12 2022 09:53:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649757197878
   },
   "documents": [
     {
@@ -279,7 +279,7 @@
       "role": "chapter",
       "order": 6,
       "prev": "kupec_benatsky_009.html",
-      "next": "kupec_benatsky_011.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -299,34 +299,14 @@
       ]
     },
     {
-      "title": "Kupec benátský",
-      "file": "kupec_benatsky_011.html",
-      "words": 54,
-      "chars": 368,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 7,
-      "prev": "kupec_benatsky_010.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Kupec benátský",
       "file": "colophon.html",
-      "words": 94,
-      "chars": 626,
-      "ideas": 12,
+      "words": 148,
+      "chars": 994,
+      "ideas": 26,
       "role": "colophon",
       "order": null,
-      "prev": "kupec_benatsky_011.html",
+      "prev": "kupec_benatsky_010.html",
       "next": null,
       "toc": [
         {
@@ -346,9 +326,9 @@
       "ideas": 2962
     },
     "chapters": {
-      "words": 18809,
-      "chars": 110548,
-      "ideas": 2947
+      "words": 18755,
+      "chars": 110180,
+      "ideas": 2933
     }
   }
 }

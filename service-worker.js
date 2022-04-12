@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-1d228e9';
+const CACHE = 'cache-0bea9fd';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./kupec_benatsky_002.html","./kupec_benatsky_005.html","./kupec_benatsky_006.html","./kupec_benatsky_007.html","./kupec_benatsky_008.html","./kupec_benatsky_009.html","./kupec_benatsky_010.html","./kupec_benatsky_011.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/kupec_benatsky2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./favicon.png","./colophon.html","./index.html","./kupec_benatsky_002.html","./kupec_benatsky_005.html","./kupec_benatsky_006.html","./kupec_benatsky_007.html","./kupec_benatsky_008.html","./kupec_benatsky_009.html","./kupec_benatsky_010.html","./manifest.json","./resources/image001.jpg","./resources/image003.jpg","./resources/kupec_benatsky2.jpg","./resources/upoutavka_eknihy.jpg","./resources/image004.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt"]));
 }
 
 self.addEventListener('fetch', e => {
