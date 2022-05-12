@@ -1,21 +1,32 @@
 {
-  "author": "William Shakespeare",
-  "contenttype": "prose",
-  "identifier": "shakespeare-kupec-benatsky-0bea9fd",
-  "languagecode": "cs",
-  "modified": "2022-02-04T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kupec benátský",
-  "revision": "0bea9fd",
+  "author": "William Shakespeare",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "shakespeare-kupec-benatsky-d3f54d4",
+  "revision": "d3f54d4",
+  "readingOrder": [
+    "promo.html",
+    "kupec_benatsky_005.html",
+    "kupec_benatsky_006.html",
+    "kupec_benatsky_007.html",
+    "kupec_benatsky_008.html",
+    "kupec_benatsky_009.html",
+    "kupec_benatsky_010.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Apr 12 2022 09:53:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649757197878
+    "date": "Thu May 12 2022 10:42:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352173085
   },
   "documents": [
     {
-      "title": "Kupec benátský",
-      "file": "kupec_benatsky_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +34,17 @@
       "order": 0,
       "prev": null,
       "next": "kupec_benatsky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "OSOBY • Kupec benátský",
+      "title": "OSOBY",
       "file": "kupec_benatsky_005.html",
       "words": 79,
       "chars": 608,
       "ideas": 18,
       "role": "chapter",
       "order": 1,
-      "prev": "kupec_benatsky_002.html",
+      "prev": "promo.html",
       "next": "kupec_benatsky_006.html",
       "toc": [
         {
@@ -54,7 +57,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PRVNÍ • Kupec benátský",
+      "title": "JEDNÁNÍ PRVNÍ",
       "file": "kupec_benatsky_006.html",
       "words": 3517,
       "chars": 20293,
@@ -96,7 +99,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ DRUHÉ • Kupec benátský",
+      "title": "JEDNÁNÍ DRUHÉ",
       "file": "kupec_benatsky_007.html",
       "words": 4913,
       "chars": 28862,
@@ -180,7 +183,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ TŘETÍ • Kupec benátský",
+      "title": "JEDNÁNÍ TŘETÍ",
       "file": "kupec_benatsky_008.html",
       "words": 4791,
       "chars": 27594,
@@ -236,7 +239,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ ČTVRTÉ • Kupec benátský",
+      "title": "JEDNÁNÍ ČTVRTÉ",
       "file": "kupec_benatsky_009.html",
       "words": 3287,
       "chars": 19912,
@@ -271,7 +274,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PÁTÉ • Kupec benátský",
+      "title": "JEDNÁNÍ PÁTÉ",
       "file": "kupec_benatsky_010.html",
       "words": 2168,
       "chars": 12911,
@@ -299,11 +302,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kupec benátský",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 148,
-      "chars": 994,
-      "ideas": 26,
+      "words": 122,
+      "chars": 803,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "kupec_benatsky_010.html",
@@ -321,9 +324,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18908,
-      "chars": 111210,
-      "ideas": 2962
+      "words": 18882,
+      "chars": 111019,
+      "ideas": 2955
     },
     "chapters": {
       "words": 18755,
