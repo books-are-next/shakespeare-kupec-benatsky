@@ -13,7 +13,7 @@ meta:
   modified: '2022-02-04T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - kupec_benatsky_002.html
+  - promo.html
   - kupec_benatsky_005.html
   - kupec_benatsky_006.html
   - kupec_benatsky_007.html
