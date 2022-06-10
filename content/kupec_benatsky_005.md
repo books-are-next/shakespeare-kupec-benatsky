@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 **VÉVODA BENÁTSKÝ**
 
 **PRINC MAROKÁNSKÝ**, **PRINC ARAGONSKÝ**, nápadníci Portiini
@@ -33,10 +35,16 @@ contentType: prose
 
 **JESSIKA**, dcera Shylockova
 
-  
+</section>
+
+<section>
 
 _Benátští šlechtici. Senátoři a úředníci při soudním dvoru. Žalářník. Služebnictvo Portiino a jiná družina._
 
-  
+</section>
+
+<section>
 
 _Dějiště: Benátky a Belmont, sídlo Portiino na pevnině._
+
+</section>

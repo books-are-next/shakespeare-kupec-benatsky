@@ -3,6 +3,8 @@ title: JEDNÁNÍ PRVNÍ
 contentType: prose
 ---
 
+<section>
+
 ## 1\. scéna
 
 _Benátky. – Ulice._
@@ -658,3 +660,5 @@ Ten Hebrej dá se pokřtít; jest tak vlídný.
 mé lodě měsíc před časem se vrátí.
 
 _Odejdou._
+
+</section>

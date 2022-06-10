@@ -3,6 +3,8 @@ title: JEDNÁNÍ PÁTÉ
 contentType: prose
 ---
 
+<section>
+
 ## 1\. scéna
 
 _Belmont. – Před domem Portiiným._
@@ -495,3 +497,5 @@ Nuž nechci nic, ať na tom život visí,
 tak střežiti jak prsten od Nerissy.
 
 _Odejdou._
+
+</section>
