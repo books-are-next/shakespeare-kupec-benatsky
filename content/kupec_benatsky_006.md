@@ -68,7 +68,7 @@ tož zboží mé mne teskným nečiní.
 
 **SALARINO**:Jste tedy zamilován.
 
-**ANTONIO**:                                          Jděte, jděte!
+**ANTONIO**:            Jděte, jděte!
 
 **SALARINO**:Ni zamilován? – Tedy řekněme,  
 že proto smuten jste, že nejste vesel,  
@@ -111,7 +111,7 @@ jste nalezl, my opustíme vás,
 však o polednách, prosím, pamatujte,  
 kde sejdeme se.
 
-**BASSANIO**:                       Přijdu dojista.
+**BASSANIO**:            Přijdu dojista.
 
 **GRATIANO**:Signor Antonio, vy nedobře  
 teď vypadáte; příliš dbáte světa:  
@@ -220,7 +220,7 @@ Jen tedy řekněte, co činit mám,
 co myslíte, že lze mi učinit,  
 a hotov jsem; tož mluvte.
 
-**BASSANIO**:                                                V Belmontu  
+**BASSANIO**:            V Belmontu  
 jest dáma, bohatá to dědička;  
 a krásná, krásnější nad výraz sám  
 a ctností převzácných. – Kdys její zrak  
@@ -240,7 +240,7 @@ z nich závodit, mám v duši tušení
 tak příznivé, že bez vší pochyby  
 se šťastným stanu.
 
-**ANTONIO**:                                 Všechen statek můj,  
+**ANTONIO**:            Všechen statek můj,  
 jak víš, jest na moři a nemám peněz  
 ni zboží, bych tu sumu opatřil.  
 Tož jdi a zkus, co zmůže úvěr můj  
@@ -469,7 +469,7 @@ mne, obchod můj a zasloužený zisk,
 jejž zove lichvou. Proklet buď můj kmen,  
 když odpustím to!
 
-**BASSANIO**:                             Slyšte, Shylocku!
+**BASSANIO**:            Slyšte, Shylocku!
 
 **SHYLOCK**:Já čítám nynější svou hotovost,  
 a pokud soudím jen tak z paměti,  
@@ -480,7 +480,7 @@ a z mého kmene, vypomůže mi.
 Leč, stůjme! – Na kolik že měsíců  
 to žádáte?  
 _(K ANTONIOVI.)_  
-                    Mír s vámi, dobrý pane,  
+            Mír s vámi, dobrý pane,  
 my právě o Vašnosti mluvili.
 
 **ANTONIO**:Ač nedlužím se, aniž půjčuji  
@@ -500,9 +500,9 @@ tak, tak; – však slyšte: myslím, řekl jste,
 že na zisk ani nepůjčujete,  
 ni dlužíte se.
 
-**ANTONIO**:                       Nikdy tak.
+**ANTONIO**:            Nikdy tak.
 
-**SHYLOCK**:                                         Když Jakub  
+**SHYLOCK**:            Když Jakub  
 pás ovce svého ujce Labana,  
 ten Jakub byl po svatém Abrahamu,  
 jak navlekla to jeho moudrá máť,  
@@ -590,7 +590,7 @@ Spíš jako nepříteli zapůjč je,
 bys, padne-li, moh s tváří smělejší  
 brát pokutu.
 
-**SHYLOCK**:                   Aj, kterak bouříte!  
+**SHYLOCK**:            Aj, kterak bouříte!  
 Chci být váš přítel, vaši lásku mít,  
 těch potup zapomenout, kterými  
 jste ztřísnil mne; v té chvíli potřeby  
@@ -648,7 +648,7 @@ kde zvlčelý mi hlídá dareba,
 naňž nelze spolehnout, a v okamžik  
 jsem u vás.
 
-**ANTONIO**:                     Pospěš, Žide šlechetný. –
+**ANTONIO**:            Pospěš, Žide šlechetný. –
 
 _Odejde SHYLOCK._
 

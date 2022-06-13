@@ -216,14 +216,14 @@ bych oddálila čas, jej provlekla
 a prodloužila a tak zdržela  
 vás před volbou.
 
-**BASSANIO**:                               Již volit nechte mne,  
+**BASSANIO**:            Již volit nechte mne,  
 neb tak jsem jako na mučidle živ.
 
 **PORTIE**:Že na mučidle jste, Bassanio?  
 Tož přiznejte se, jaká zrada skrývá  
 se v lásce vaší?
 
-**BASSANIO**:                           Jenom ošklivá  
+**BASSANIO**:             Jenom ošklivá  
 ta zrada nedůvěry, budící  
 strach o splnění blaha lásky mé.  
 Tak právě moh by žíti v přátelství  
@@ -443,7 +443,7 @@ své věrné lásky vyměňovat slib,
 tož, prosím, dovolte, bych zároveň  
 směl s vámi svatbu mít.
 
-**BASSANIO**:                                          Ze srdce rád,  
+**BASSANIO**:            Ze srdce rád,  
 jen jestli sobě ženu opatříš.
 
 **GRATIANO**:Dík, pane! vy jste mi ji opatřil.  
@@ -462,21 +462,21 @@ když vaše u paní mít bude zdar.
 
 **PORTIE**:To pravda, Nerisso?
 
-**NERISSA**:                                       Má slečno, jest,  
+**NERISSA**:            Má slečno, jest,  
 když ráčíte jen k tomu svoliti.
 
 **BASSANIO**:A myslíte to vážně, Gratiano?
 
 **GRATIANO**:To vskutku, pane.
 
-**BASSANIO**:                                         Tedy velice  
+**BASSANIO**:            Tedy velice  
 náš sňatek bude vaší svatbou poctěn.
 
 **GRATIANO**:Za první klouče tisíc dukátů!
 
 **NERISSA**:Jak – sázka?
 
-**GRATIANO**:                         Ne, tu bychom nevyhráli,  
+**GRATIANO**:            Ne, tu bychom nevyhráli,  
 než zřídíme si vlastní posadu.  
 Však hle, Lorenzo se svou pohankou!  
 A s ním Salerio, můj starý druh.
@@ -498,7 +498,7 @@ jenž naléhal, že odříci jsem nemoh,
 bych k vám jej doprovodil.
 
 **SALERIO**:  
-                                          Ano, pane;  
+            Ano, pane;  
 já prosil jej a mám své příčiny.  
 Signor Antonio jej doporoučí.  
 _(Podává BASSANIOVI list.)_
@@ -508,7 +508,7 @@ mi, prosím, povězte, jakže se má
 můj dobrý přítel?
 
 **SALERIO**:  
-                             Není nemocen,  
+            Není nemocen,  
 můj pane, leda že snad na mysli;  
 ni zdráv, krom zdráv-li není na duchu.  
 Ten dopis objeví vám jeho stav.
@@ -523,11 +523,11 @@ jsme Jasonové zde a dobyli
 jsme rouna zlatého.
 
 **SALERIO**:  
-                                   Já bych si přál,  
+            Já bych si přál,  
 jen byste byli rouna dobyli,  
 jež ztratil on.
 
-**PORTIE**:                         V tom jeho dopisu  
+**PORTIE**:            V tom jeho dopisu  
 jest obsah neblahý, neb všechnu barvu  
 z Bassaniovy tváře ukrádá.  
 Toť zemřel drahý přítel nějaký;  
@@ -538,7 +538,7 @@ jsemť vaše polovice, náleží
 mi také půle všeho, co ten list  
 vám přináší.
 
-**BASSANIO**:                    Ó, drahá Portie,  
+**BASSANIO**:            Ó, drahá Portie,  
 toť několik jest nejsmutnějších slov,  
 jež třísnila kdy papír. – Dobrá slečno,  
 když nejprv jsem vám vyznal lásku svou,  
@@ -600,7 +600,7 @@ vždy neunavný; muž, jenž vyniká
 ctí starořímskou víc než kdokoliv  
 zde v Itálii.
 
-**PORTIE**:                    Co jest Židu dlužen?
+**PORTIE**:            Co jest Židu dlužen?
 
 **BASSANIO**:Dluh za mne, tři tisíce dukátů.
 
@@ -650,7 +650,7 @@ Dej, žalářníku, pozor na něho.
 
 **ANTONIO**:Slyš, dobrý Shylocku!
 
-**SHYLOCK**:                                            Svůj zápis chci;  
+**SHYLOCK**:            Svůj zápis chci;  
 nic nemluv proti mému zápisu;  
 já přísahal, že chci, co upsáno.  
 Ty zvals mne psem, než příčiny jsi měl,  
@@ -660,7 +660,7 @@ Já divím se, ty drábe ničemný,
 tvé dobrotě, žes k jeho žádosti  
 s ním vyšel z vězení.
 
-**ANTONIO**:                                  Jen, prosím, slyš.
+**ANTONIO**:            Jen, prosím, slyš.
 
 **SHYLOCK**:Svůj zápis chci a tebe slyšet nechci;  
 svůj zápis chci, a proto nemluv nic.  
@@ -675,14 +675,14 @@ _(Odejde.)_
 **SALARINO**:Toť nejkrutější hafan, jaký kdy  
 byl mezi lidmi.
 
-**ANTONIO**:                              Již ho nechte být;  
+**ANTONIO**:            Již ho nechte být;  
 dál s marnou prosbou za ním nepůjdu.  
 Mé bezživotí hledá; však vím proč:  
 já často z jeho pokut vyprostil  
 jsem dlužníky, když posteskli si mi,  
 a proto jeho zášť.
 
-**SALARINO**:                              K té pokutě  
+**SALARINO**:            K té pokutě  
 však vévoda mu nikdy nesvolí.
 
 **ANTONIO**:Běh práva nemůž zdržet vévoda;  
@@ -759,7 +759,7 @@ A tedy s bohem; na shledanou zas!
 **LORENZO**:Ať krásné myšlenky vás provázejí  
 a šťastné hodiny!
 
-**JESSIKA**:                                        Já, vzácná paní,  
+**JESSIKA**:            Já, vzácná paní,  
 vám celým srdcem přeji spokojenost.
 
 **PORTIE**:Můj dík za vaše přání; navzájem  
@@ -787,7 +787,7 @@ _(Odejde.)_
 co ještě nevíš; spatříme své muže  
 dřív, než se nadějí.
 
-**NERISSA**:                                 A oni nás?
+**NERISSA**:            A oni nás?
 
 **PORTIE**:Též uvidí; leč v takém oděvu,  
 že budou u nás předpokládati,  
@@ -933,7 +933,7 @@ k té druhé muselo by v sázku dát
 se ještě něco; neb náš chudý svět  
 jí nemá rovné.
 
-**LORENZO**:                           Právě takého  
+**LORENZO**:            Právě takého  
 máš na mně muže jako ženu on.
 
 **JESSIKA**:V tom na mé mínění se zeptejte.
@@ -946,7 +946,7 @@ máš na mně muže jako ženu on.
 neb ať si pak už mluvíš cokoli,  
 vše spolknu.
 
-**JESSIKA**:                            Nuže, řeknu ti, co jsi.
+**JESSIKA**:            Nuže, řeknu ti, co jsi.
 
 _Odejdou._
 

@@ -103,7 +103,7 @@ jež omlouvala by tvou nelidskost.
 **SHYLOCK**:Však nejsem povinen svou odpovědí  
 se tobě zalíbit.
 
-**BASSANIO**:                           Což každý to,  
+**BASSANIO**:            Což každý to,  
 co nemůž milovati, zabíjí?
 
 **SHYLOCK**:Zdaž kdo, co v zášti má, by nezabil?
@@ -137,7 +137,7 @@ přec jen bych trval na svém zápisu.
 **VÉVODA**:Jak můžeš doufat v milosrdenství,  
 když sám je nekonáš?
 
-**SHYLOCK**:                                         A jakého  
+**SHYLOCK**:            A jakého  
 se bát mám soudu, křivdy nečině?  
 Vy máte nakoupených otroků,  
 jichž užíváte jako oslů, psů  
@@ -163,11 +163,11 @@ tož doktor učený, jejž obeslal jsem,
 by rozhod v této při.
 
 **SALERIO**:  
-                                    Můj pane, venku  
+            Můj pane, venku  
 jest posel s listy doktorovými;  
 teď přišel z Paduy.
 
-**VÉVODA**:                                    Ty dopisy  
+**VÉVODA**:            Ty dopisy  
 nám přineste a zavolejte posla.
 
 **BASSANIO**:Jen ještě odvahu, Antonio!  
@@ -195,7 +195,7 @@ _(Odevzdá list.)_
 **SHYLOCK**:Bych propadlou si vyříz pokutu  
 tam z toho bankrotáře.
 
-**GRATIANO**:                                             O svůj podšev  
+**GRATIANO**:            O svůj podšev  
 si, Žide urputný, nůž nenabrousíš,  
 jak o svou duši; ale žádný kov,  
 ba ani popravčího sekyra  
@@ -231,7 +231,7 @@ a učeného doktora. – Kde jest?
 **NERISSA**:On nedaleko čeká na odpověď,  
 zda předpustíte jej.
 
-**VÉVODA**:                                    Ze srdce rád.  
+**VÉVODA**:            Ze srdce rád.  
 Ať tři neb čtyři dojdou pro něho  
 a dvorně uvedou jej do síně.  
 Soud zatím poslyš list Bellariův.
@@ -246,27 +246,27 @@ ten mladý doktor.
 
 _Vystoupí PORTIE přestrojená za BALTAZARA._
 
-                                   Podejte mi ruku.  
+            Podejte mi ruku.  
 Vy přicházíte od Bellaria?
 
 **PORTIE**:Tak, pane, jest.
 
-**VÉVODA**:                                    Jste vítán; sedněte.  
+**VÉVODA**:            Jste vítán; sedněte.  
 Jest vám již předmět toho sporu znám,  
 jenž líčen dnes před tímto soudním dvorem?
 
 **PORTIE**:Jsem dokonale o tom poučen.  
 Kdo kupec jest, kdo Žid?
 
-**VÉVODA**:                                                Antonio  
+**VÉVODA**:            Antonio  
 a starý Shylocku, blíž předstupte.
 
 **PORTIE**:Jest vaše jméno Shylock?
 
-**SHYLOCK**:                                                Shylock jest  
+**SHYLOCK**:            Shylock jest  
 mé jméno.
 
-**PORTIE**:                  Pře, již tady vedete,  
+**PORTIE**:            Pře, již tady vedete,  
 jest divné povahy, však správna tak,  
 že zákon benátský vám nemůže  
 nic bránit v tom, jak postupujete.  
@@ -274,11 +274,11 @@ _(K ANTONIOVI.)
 _A vy stojíte v jeho půhonu,  
 či nestojíte?
 
-**ANTONIO**:                   Tak; jak říká on.
+**ANTONIO**:            Tak; jak říká on.
 
 **PORTIE**:A uznáváte zápis?
 
-**ANTONIO**:                                    Uznávám.
+**ANTONIO**:            Uznávám.
 
 **PORTIE**:Žid musí tedy milosrdným být.
 
@@ -326,7 +326,7 @@ k své moci, malou křivdu učiňte
 pro velké právo, by ten krutý ďábel  
 své vůle nedošel.
 
-**PORTIE**:                               To nesmí být;  
+**PORTIE**:            To nesmí být;  
 neb žádné pravomoci v Benátkách  
 řád utvrzený nelze proměnit.  
 Zlý příklad tím by v budoucnost se dal  
@@ -343,12 +343,12 @@ by vetřela se v stát; to nemůž být.
 **PORTIE**:Těch peněz třikrát tolik, Shylocku,  
 se tobě podává.
 
-**SHYLOCK**:                           Já přísahal,  
+**SHYLOCK**:            Já přísahal,  
 já přísahal, mám v nebi přísahu.  
 Mám duši ztížit křivou přísahou?  
 Ne, ne, za celé Benátky.
 
-**PORTIE**:                                             Tož tedy  
+**PORTIE**:            Tož tedy  
 jest zápis propadlý a zákonně  
 Žid smí si libru masa vyříznout,  
 co jen chce nejblíž srdce kupcova.  
@@ -368,7 +368,7 @@ mne změnit; – trvám na svém zápisu.
 **ANTONIO**:Co nejsnažněji prosím soud, by dal  
 svůj rozsudek.
 
-**PORTIE**:                          Ten zní: Již musíte  
+**PORTIE**:            Ten zní: Již musíte  
 svá prsa připravit pro jeho nůž.
 
 **SHYLOCK**:Ó čacký soudce! Vzácný jinochu!
@@ -382,14 +382,14 @@ jak mnohem starší jsi, než vypadáš!
 
 **PORTIE**:Svá prsa tedy rozhalte.
 
-**SHYLOCK**:                                               Aj, prsa!  
+**SHYLOCK**:            Aj, prsa!  
 tak zápis dí, zda pravda, čacký soudce?  
 A „nejblíž u srdce“ toť do slova.
 
 **PORTIE**:Tak jest. Jsou váhy zde, by mohlo se  
 to maso zvážit?
 
-**SHYLOCK**:                           Mám je pohotově.
+**SHYLOCK**:            Mám je pohotově.
 
 **PORTIE**:A na svůj peníz dejte, Shylocku,  
 sem také ranhojiče zavolat,  
@@ -462,7 +462,7 @@ tak zákon svoluje, soud uznává.
 **SHYLOCK**:Ó nejmoudřejší soudce! Toť přec nález!  
 Pojď, přihotov se!
 
-**PORTIE**:                              Trochu posečkej;  
+**PORTIE**:            Trochu posečkej;  
 jest ještě něco. – Zápis nedává  
 ti jeho krve – ani krůpěje!  
 Jeť výslovně tu psáno: „libra masa“.  
@@ -475,7 +475,7 @@ benátským právem obci benátské.
 **GRATIANO**:Ó spravedlivý soudce! – Žide, slyš!  
 Ó moudrý soudce!
 
-**SHYLOCK**:                               Jest to zákonem?
+**SHYLOCK**:            Jest to zákonem?
 
 **PORTIE**:Sám nahledneš v to ustanovení;  
 a naléhaje na spravedlnost,  
@@ -488,7 +488,7 @@ se dostane ti víc, než sobě přeješ.
 můj zápis trojnásobně vyplaťte  
 a pusťte křesťana.
 
-**BASSANIO**:                                Zde peníze.
+**BASSANIO**:            Zde peníze.
 
 **PORTIE**:Jen zvolna! Žid své právo dostane;  
 jen zvolna, žádný spěch! – Má obdržet  
@@ -529,7 +529,7 @@ a vezmeš ji na vlastní nebezpečí.
 **SHYLOCK**:Sám ďábel mu ji tedy požehnej!  
 Dál neodpovídám.
 
-**PORTIE**:                                Jen počkej, Žide;  
+**PORTIE**:            Jen počkej, Žide;  
 i jinak ještě právo drží tě.  
 Jest psáno v zákoníku benátském:  
 „Když cizinec jest řádně usvědčen,  
@@ -564,7 +564,7 @@ lze změnit v peněžitou pokutu.
 **PORTIE**:Tak jest, však jen co státu týče se,  
 a ne Antonia.
 
-**SHYLOCK**:                         Ne, život můj  
+**SHYLOCK**:            Ne, život můj  
 a vše si vezměte; ten nedarujte. –  
 Vy béřete můj dům, berouce sloup,  
 jenž můj dům drží; život béřete,  
@@ -573,10 +573,10 @@ když to mi odjímáte, čím jsem živ.
 **PORTIE**:A jakou milost vy, Antonio,  
 mu poskytnete?
 
-**GRATIANO**:                          Zdarma oprátku  
+**GRATIANO**:            Zdarma oprátku  
 jen, pro bůh, pranic víc.
 
-**ANTONIO**:                                              Když ráčí tak  
+**ANTONIO**:            Když ráčí tak  
 můj vévoda a celý soudní dvůr,  
 by za půl svého statku propadl  
 jen pokutou, já budu spokojen,  
@@ -603,7 +603,7 @@ tu milost, již jsem právě udělil.
 mně není dobře; pošlete ten list  
 mi k podpisu.
 
-**VÉVODA**:                        Jdi; ale učiň tak!
+**VÉVODA**:            Jdi; ale učiň tak!
 
 **GRATIANO**:A při křtu budeš míti kmotry dva.  
 Já kdybych soudcem byl, o deset víc  
@@ -625,7 +625,7 @@ mu k díkům zavázán.
 
 _Odejde VÉVODA, SENÁTOŘI a DRUŽINA._
 
-**BASSANIO**:                                      Můj pane ctný,  
+**BASSANIO**:            Můj pane ctný,  
 já a můj přítel vaší moudrostí  
 jsme zproštěni dnes těžké pokuty;  
 tož ony tři tisíce dukátů,  
@@ -653,7 +653,7 @@ _(K ANTONIOVI.)_
 Své rukavice dejte mi a chci  
 je nosit kvůli vám.  
 _(K BASSANIOVI.)_  
-                             A z lásky k vám  
+            A z lásky k vám  
 chci vzíti tento prsten. Ruky své  
 jen neoddalujte; já nechci víc  
 a to mi z lásky neodepřete.
@@ -699,7 +699,7 @@ Jen rychle spěš!
 
 _Odejde GRATIANO._
 
-                              Hned pojďme domů k vám  
+            Hned pojďme domů k vám  
 a zítra časně ráno k Belmontu  
 jak letem jedem spolu. – Pojďme již.
 
@@ -731,7 +731,7 @@ dům Shylockův zde tomu mladíku.
 
 **GRATIANO**:To velmi rád.
 
-**NERISSA**:                           Jen ještě slovo, pane –  
+**NERISSA**:            Jen ještě slovo, pane –  
 _(Stranou k PORTII.)_  
 Já pokusím se, abych dostala  
 též prsten svého muže; přísahat  
@@ -744,10 +744,10 @@ To bude nějakého přísahání,
 však smělým pohledem a přísaháním  
 je překonáme.  
 _(Nahlas.)_  
-                           Jdi a pospěš si;  
+            Jdi a pospěš si;  
 víš, kde tě očekávám.
 
-**NERISSA**:                                        Dobrý pane,  
+**NERISSA**:            Dobrý pane,  
 již pojďte, ukažte mi Židův dům.
 
 _Odejdou._

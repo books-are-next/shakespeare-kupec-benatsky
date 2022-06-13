@@ -27,7 +27,7 @@ Já nechtěl bych tu barvu zaměnit,
 leč bych si osvojil tvé myšlenky,  
 má sličná královno.
 
-**PORTIE**:                                  Při volbě té  
+**PORTIE**:            Při volbě té  
 mi není vůdkyní jen něžná rada  
 mých dívčích očí. Kromě toho los,  
 jenž o mé sudbě rozhodnouti má,  
@@ -288,7 +288,7 @@ _Vystoupí GRATIANO._
 
 **GRATIANO**:Kde jest váš pán?
 
-**LEONARDO**:                                   Tam prochází se, pane.  
+**LEONARDO**:            Tam prochází se, pane.  
 _(Odejde.)_
 
 **GRATIANO**:Signor Bassanio –
@@ -297,7 +297,7 @@ _(Odejde.)_
 
 **GRATIANO**:Mám prosbu k vám.
 
-**BASSANIO**:                                        Již vyplněna jest.
+**BASSANIO**:            Již vyplněna jest.
 
 **GRATIANO**:To nesmíte mi odepřít; já musím  
 jít s vámi do Belmontu.
@@ -437,7 +437,7 @@ mne asi za hodinku najdete.
 
 _Odejdou SALARINO a SALANIO._
 
-**GRATIANO**:                                              To psaníčko  
+**GRATIANO**:            To psaníčko  
 zdaž nebylo od krásné Jessiky?
 
 **LORENZO**:Chtěj nechtěj, musím vše ti povědít.  
@@ -470,7 +470,7 @@ a šaty trhat. – Jářku, Jessiko!
 
 **LAUNCELOT**:Hej, Jessiko!
 
-**SHYLOCK**:                               Kdo poroučí ti volat?  
+**SHYLOCK**:            Kdo poroučí ti volat?  
 Já neporoučím, abys volal ty.
 
 **LAUNCELOT**:
@@ -577,12 +577,12 @@ a zdraným plachtovím, tak vychrtlá
 a rozbitá a ožebračená  
 týmž větrem záletným!
 
-**SALARINO**:                                        Hle, toť Lorenzo;  
+**SALARINO**:            Hle, toť Lorenzo;  
 víc o tom jindy.
 
 _Vystoupí LORENZO._
 
-**LORENZO**:                                  Milí přátelé,  
+**LORENZO**:            Milí přátelé,  
 již odpusťte mi moje prodlení;  
 ne já, však moje záležitosti  
 vás čekat nechaly. – Až bude vám  
@@ -593,7 +593,7 @@ Kdo jest to v domě tam?
 
 _Vystoupí JESSIKA nahoře u okna v oděvu pacholíka._
 
-**JESSIKA**:                                                      A kdo jste vy?  
+**JESSIKA**:            A kdo jste vy?  
 Pro větší jistotu to povězte,  
 ač přísahati chci, že znám váš hlas.
 
@@ -604,7 +604,7 @@ neb koho miluji tak přes míru?
 A kdož, Lorenzo, ví to, kromě vás,  
 zda vaše jsem?
 
-**LORENZO**:                            Jsou svědkem nebesa  
+**LORENZO**:            Jsou svědkem nebesa  
 a tvoje vlastní srdce, že jsi má.
 
 **JESSIKA**:Tu skřínku chyťte; stojí za chycení.  
@@ -616,7 +616,7 @@ jež tropí sami; kdyby mohli to,
 sám Cupid by se zarděl, vida mne  
 tak v hocha změněnu.
 
-**LORENZO**:                                           Jen sejděte,  
+**LORENZO**:            Jen sejděte,  
 neb musíte mým pochodníkem být.
 
 **JESSIKA**:Jak? – Na svou vlastní hanbu svítit mám?  
@@ -624,7 +624,7 @@ Tať věru sama sebou světlá dost.
 Ta služba, miláčku, mne prozradí  
 a musím skryta být.
 
-**LORENZO**:                                           To, milá, jsi  
+**LORENZO**:            To, milá, jsi  
 i v rozmilém tom chlapčím oděvu.  
 Však sejdi hned, neb čirá noc si hrá  
 již na uprchlíka a čekají  
@@ -635,7 +635,7 @@ se ještě malou hrstkou dukátů
 a budu u vás hned.  
 _(Odejde nahoře.)_
 
-**GRATIANO**:                                   Při kápi mé,  
+**GRATIANO**:            Při kápi mé,  
 toť anděl pohanský, ne Židovka!
 
 **LORENZO**:Bůh svědkem, ze srdce ji miluji;  
@@ -678,7 +678,7 @@ _Vystoupí PORTIE, PRINC MAROKÁNSKÝ a jejich DRUŽINY._
 zde vznešenému princi ukažte.  
 Již tedy volte.
 
-**PRINC MAROKÁNSKÝ**:                      První zlatá jest  
+**PRINC MAROKÁNSKÝ**:            První zlatá jest  
 a na ní napsáno: „Kdo zvolí mne,  
 mít bude to, co mnozí sobě přejí.“  
 A druhá, stříbrná, slib nese ten:  
@@ -689,11 +689,11 @@ jest olovo a dí též tupě tak:
 a vše jen v sázku.“ – Jakže poznám to,  
 že zvolil jsem tu pravou?
 
-**PORTIE**:                                              V jedné z nich  
+**PORTIE**:            V jedné z nich  
 jest obraz můj; když dobře zvolíte,  
 jsem vaše, princi.
 
-**PRINC MAROKÁNSKÝ**:                           Kéž nějaký bůh  
+**PRINC MAROKÁNSKÝ**:            Kéž nějaký bůh  
 mou řídil soudnost! Podívejme se;  
 chci znovu prohlédnouti nápisy.  
 Co povídá ta olověná skříň?  
@@ -758,7 +758,7 @@ vám náležím.
 
 _PRINC MAROKÁNSKÝ otevře zlatou skřínku._
 
-**PRINC MAROKÁNSKÝ**:                    Ó peklo! Co to jest?  
+**PRINC MAROKÁNSKÝ**:            Ó peklo! Co to jest?  
 Toť kostlivec, a v očním důlku zde  
 má lístek popsaný: Hned přečtu to.  
 _(Čte.)_  
@@ -798,7 +798,7 @@ Lorenzo však tam na korábu není.
 i vévodu, jenž šel s ním prohledat  
 Bassaniovu loď.
 
-**SALARINO**:                         A přišel pozdě,  
+**SALARINO**:            A přišel pozdě,  
 neb koráb odplul již; však vévodě  
 tam řečeno, že viděn v gondole  
 Lorenzo s milenou svou Jessikou;  
@@ -823,11 +823,11 @@ má skvosty na sobě, a dukáty!“
 se hrnou křičíce: „Mé kameny!  
 Má dcera! Moje dukáty!“
 
-**SALANIO**:                                       Ať jen  
+**SALANIO**:            Ať jen  
 Antonio teď lhůtu dodrží,  
 sic zle to zaplatí.
 
-**SALARINO**:                            Tos dobře vzpomněl.  
+**SALARINO**:            Tos dobře vzpomněl.  
 Já včera mluvil s jakýms Francouzem  
 a ten mi řek, že v mořské úžině,  
 jež od Anglicka dělí Francii,  
@@ -991,7 +991,7 @@ _Vystoupí SLOUŽÍCÍ._
 
 **SLOUŽÍCÍ**:Kde jest má paní?
 
-**PORTIE**:                          Zde; – co chce můj pán?
+**PORTIE**:            Zde; – co chce můj pán?
 
 **SLOUŽÍCÍ**:U vaší brány, slečno, sestoupil  
 teď mladý Benátčan, jenž přichvátal,  
