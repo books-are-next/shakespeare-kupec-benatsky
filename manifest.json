@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-kupec-benatsky-ea48c9b",
-  "revision": "ea48c9b",
+  "identifier": "shakespeare-kupec-benatsky-97233db",
+  "revision": "97233db",
   "readingOrder": [
     "promo.html",
     "kupec_benatsky_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:11:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949478315
+    "date": "Mon Jun 13 2022 21:58:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157482689
   },
   "documents": [
     {
@@ -60,7 +60,7 @@
       "title": "JEDNÁNÍ PRVNÍ",
       "file": "kupec_benatsky_006.html",
       "words": 3517,
-      "chars": 20293,
+      "chars": 20122,
       "ideas": 484,
       "role": "chapter",
       "order": 2,
@@ -102,7 +102,7 @@
       "title": "JEDNÁNÍ DRUHÉ",
       "file": "kupec_benatsky_007.html",
       "words": 4913,
-      "chars": 28862,
+      "chars": 28406,
       "ideas": 740,
       "role": "chapter",
       "order": 3,
@@ -186,7 +186,7 @@
       "title": "JEDNÁNÍ TŘETÍ",
       "file": "kupec_benatsky_008.html",
       "words": 4791,
-      "chars": 27594,
+      "chars": 27263,
       "ideas": 718,
       "role": "chapter",
       "order": 4,
@@ -242,7 +242,7 @@
       "title": "JEDNÁNÍ ČTVRTÉ",
       "file": "kupec_benatsky_009.html",
       "words": 3287,
-      "chars": 19912,
+      "chars": 19304,
       "ideas": 587,
       "role": "chapter",
       "order": 5,
@@ -277,7 +277,7 @@
       "title": "JEDNÁNÍ PÁTÉ",
       "file": "kupec_benatsky_010.html",
       "words": 2168,
-      "chars": 12911,
+      "chars": 12465,
       "ideas": 386,
       "role": "chapter",
       "order": 6,
@@ -304,9 +304,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 76,
-      "chars": 520,
-      "ideas": 7,
+      "words": 117,
+      "chars": 753,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "kupec_benatsky_010.html",
@@ -324,13 +324,13 @@
   ],
   "totals": {
     "all": {
-      "words": 18836,
-      "chars": 110736,
-      "ideas": 2943
+      "words": 18877,
+      "chars": 108957,
+      "ideas": 2954
     },
     "chapters": {
       "words": 18755,
-      "chars": 110180,
+      "chars": 108168,
       "ideas": 2933
     }
   }

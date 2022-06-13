@@ -18,39 +18,39 @@ na trojské valy stoupal Troilus,
 by k řeckým stanům duši vyvzdychal,  
 kde spala Cressida.
 
-**JESSIKA**:                                        V noc takovou  
+**JESSIKA**:            V noc takovou  
 šla Thisbe v strachu, rosu stírajíc,  
 a spatřila stín lva dřív nežli jej,  
 a prchla zlekána.
 
-**LORENZO**:                                V noc takovou  
+**LORENZO**:            V noc takovou  
 v své ruce haluz vrby smuteční,  
 na pustém břehu mořském stála Dido,  
 v dál kynouc milenci, by do Carthaga  
 se opět navrátil.
 
-**JESSIKA**:                                  V noc takovou  
+**JESSIKA**:            V noc takovou  
 Medea čarodějné byliny  
 si trhala, jež starci Aesonovi  
 zas mladost vrátily.
 
-**LORENZO**:                                    V noc takovou  
+**LORENZO**:            V noc takovou  
 od bohatého Žida Jessika  
 se tajně odkradla a s lehkovážným  
 svým milencem utekla z Benátek  
 až někam k Belmontu.
 
-**JESSIKA**:                                               V noc takovou  
+**JESSIKA**:            V noc takovou  
 mladý Lorenzo přísahal jí lásku,  
 jí ukrádaje duši mnohým slibem,  
 a žádným pravdivým.
 
-**LORENZO**:                                       V noc takovou  
+**LORENZO**:            V noc takovou  
 ta hezká Jessika, jak malý diblík,  
 teď pomlouvala svého milence  
 a on jí odpustil.
 
-**JESSIKA**:                                 Já chtěla bych  
+**JESSIKA**:            Já chtěla bych  
 tu přenocovat, kdyby nikdo nešel;  
 však pozor – mužské kroky doslýchám.
 
@@ -60,7 +60,7 @@ _Vystoupí STEFANO._
 
 **STEFANO**:Váš přítel.
 
-**LORENZO**:                     Přítel! Jaký jest to přítel?  
+**LORENZO**:            Přítel! Jaký jest to přítel?  
 A vaše jméno, prosím, příteli?
 
 **STEFANO**:Stefano jest mé jméno, zprávu nesu,  
@@ -69,7 +69,7 @@ zde bude v Belmontu. – Po božích mukách
 teď obchází a klečíc modlí se  
 o šťastné manželství.
 
-**LORENZO**:                                   Kdo provází ji?
+**LORENZO**:            Kdo provází ji?
 
 **STEFANO**:Jen zbožný poustevník a její družka.  
 Však povězte mi, vrátil se můj pán?
@@ -111,7 +111,7 @@ pod širé nebe ven. –
 
 _Odejde STEFANO._
 
-                                          Jak unyle  
+            Jak unyle  
 spí záře měsíčná na tomto svahu!  
 Zde posadíme se a necháme  
 se zvuky hudby vkrádati v náš sluch.  
@@ -137,7 +137,7 @@ ji hudbou.
 
 _Hudba._
 
-**JESSIKA**:                       Nikdy nejsem veselá,  
+**JESSIKA**:            Nikdy nejsem veselá,  
 když slyším hudbu ladně znějící.
 
 **LORENZO**:To tím, že s celou duší posloucháš. –  
@@ -201,17 +201,17 @@ _Hudba umlkne._
 **PORTIE**:Jak slepec kukačku po špatném hlase  
 mne poznává.
 
-**LORENZO**:                      Ctná paní, vítejte!
+**LORENZO**:            Ctná paní, vítejte!
 
 **PORTIE**:My modlily se o blaho svých mužů,  
 jimž, bohdá, naše zbožnost prospěje.  
 Jsou doma již?
 
-**LORENZO**:                            Ne, paní, dosud nejsou;  
+**LORENZO**:            Ne, paní, dosud nejsou;  
 však před nimi již posel ohlásil,  
 že přicházejí.
 
-**PORTIE**:                      Vejdi, Nerisso,  
+**PORTIE**:            Vejdi, Nerisso,  
 a přikaž sloužícím, by ničeho  
 o našem bytí z domu neřekli;  
 vy též, Lorenzo; Jessiko, vy též.
@@ -237,7 +237,7 @@ a nikdy nebuď tak, Bassanio,
 mou vinou. Ale bůh to všechno sprav!  
 Jste doma vítán, choti.
 
-**BASSANIO**:                                           Děkuji.  
+**BASSANIO**:            Děkuji.  
 Zde uvítejte mého přítele.  
 To jest ten muž, to jest Antonio,  
 jenž si mne zavázal tak bezměrně.
@@ -308,7 +308,7 @@ Ba nejlíp teď si utít levici
 a přísahati, že jsem ztratil ji,  
 ten prsten háje.
 
-**GRATIANO**:                           Don Bassanio  
+**GRATIANO**:            Don Bassanio  
 svůj prsten soudci dal, jenž o něj žádal  
 a doopravdy si ho zasloužil;  
 a pak ten skrček, soudcův písařík,  
@@ -330,7 +330,7 @@ dřív nespatří, než prsten uvidím.
 **NERISSA**:Též vaše dříve neuvidí mne,  
 než spatřím svůj.
 
-**BASSANIO**:                                 Ó dobrá Portie,  
+**BASSANIO**:            Ó dobrá Portie,  
 jen vědouc, komu jsem ten prsten dal,  
 a vědouc, za koho jsem prsten dal,  
 a chápajíc, zač jsem ten prsten dal  
@@ -396,7 +396,7 @@ a před mnohými těmi přáteli
 ti přísahám při krásných očích tvých,  
 v nichž vidím sebe sám –
 
-**PORTIE**:                                            Jen slyšte to!  
+**PORTIE**:            Jen slyšte to!  
 v mých obou očích dvakrát vidí se,  
 to v každém oku jednou; přísaháte  
 na dvojpodobnou vaši osobu;  
@@ -420,7 +420,7 @@ by lépe jej než první zachoval.
 **ANTONIO**:Nuž, zde, Bassanio, a přísahejte,  
 že prsten zachováte.
 
-**BASSANIO**:                                   Nebesa!  
+**BASSANIO**:            Nebesa!  
 toť tentýž, který dal jsem doktoru.
 
 **PORTIE**:On dal mi jej; a již mi odpusťte,  
@@ -451,7 +451,7 @@ se do přístavu s vzácným nákladem.
 To nezvíte, jak divnou příhodou  
 jsem dopis dostala.
 
-**ANTONIO**:                                    Já oněměl.
+**ANTONIO**:            Já oněměl.
 
 **BASSANIO**:Vy doktorem? A já vás nepoznal?
 
@@ -464,7 +464,7 @@ leč tenkrát, bude-li kdy z něho muž.
 si pospat u mne, a když budu z domu  
 spi s mojí ženou.
 
-**ANTONIO**:                                  Vy jste, dobrá paní,  
+**ANTONIO**:            Vy jste, dobrá paní,  
 mi život vrátila i živobytí;  
 neb tady dočítám se bezpečně,  
 že lodi mé jsou šťastně v přístavu.
@@ -481,7 +481,7 @@ po jeho smrti ve váš majetek.
 **LORENZO**:Vy, krásné dámy, manu sypete  
 na cestu hladových.
 
-**PORTIE**:                                  Již skoro jitro  
+**PORTIE**:            Již skoro jitro  
 a ještě, tuším, vše, co dálo se,  
 vám není jasno. – Pojďme do domu;  
 tam vyslýchejte nás, jak libo jest,  
