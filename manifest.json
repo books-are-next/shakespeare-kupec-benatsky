@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-kupec-benatsky-97233db",
-  "revision": "97233db",
+  "identifier": "shakespeare-kupec-benatsky-cb2ba8a",
+  "revision": "cb2ba8a",
   "readingOrder": [
     "promo.html",
     "kupec_benatsky_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:58:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157482689
+    "date": "Wed Jun 15 2022 05:57:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272632336
   },
   "documents": [
     {
@@ -304,8 +304,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 117,
-      "chars": 753,
+      "words": 131,
+      "chars": 860,
       "ideas": 18,
       "role": "colophon",
       "order": null,
@@ -324,8 +324,8 @@
   ],
   "totals": {
     "all": {
-      "words": 18877,
-      "chars": 108957,
+      "words": 18891,
+      "chars": 109064,
       "ideas": 2954
     },
     "chapters": {
