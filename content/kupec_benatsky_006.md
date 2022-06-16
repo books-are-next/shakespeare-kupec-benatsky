@@ -1,6 +1,6 @@
 ---
 title: JEDNÁNÍ PRVNÍ
-contentType: prose
+contentType: drama
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: JEDNÁNÍ DRUHÉ
-contentType: prose
+contentType: drama
 ---
 
 <section>
