@@ -1,6 +1,6 @@
 ---
 title: JEDNÁNÍ TŘETÍ
-contentType: prose
+contentType: drama
 ---
 
 <section>

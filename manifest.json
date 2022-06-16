@@ -5,10 +5,11 @@
   "title": "Kupec benátský",
   "author": "William Shakespeare",
   "publisher": "Městská knihovna v Praze",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-kupec-benatsky-cb2ba8a",
-  "revision": "cb2ba8a",
+  "identifier": "shakespeare-kupec-benatsky-1b10b42",
+  "revision": "1b10b42",
   "readingOrder": [
     "promo.html",
     "kupec_benatsky_005.html",
@@ -20,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:57:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272632336
+    "date": "Thu Jun 16 2022 07:33:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364825866
   },
   "documents": [
     {
@@ -324,9 +325,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18891,
-      "chars": 109064,
-      "ideas": 2954
+      "words": 18892,
+      "chars": 109069,
+      "ideas": 2955
     },
     "chapters": {
       "words": 18755,

@@ -1,6 +1,6 @@
 ---
 title: OSOBY
-contentType: prose
+contentType: drama
 ---
 
 <section>

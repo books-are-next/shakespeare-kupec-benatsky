@@ -1,6 +1,6 @@
 ---
 title: JEDNÁNÍ PÁTÉ
-contentType: prose
+contentType: drama
 ---
 
 <section>

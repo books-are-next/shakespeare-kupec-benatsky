@@ -5,13 +5,14 @@ contentType: prose
 languageCode: cs
 meta:
   languageCode: cs
-  contentType: prose
+  contentType: drama
   title: Kupec benátský
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: William Shakespeare
   publisher: Městská knihovna v Praze
   modified: '2022-02-04T00:00:00.000Z'
   publisherShort: mkp
+  edition: drama
 readingOrder:
   - promo.html
   - kupec_benatsky_005.html
