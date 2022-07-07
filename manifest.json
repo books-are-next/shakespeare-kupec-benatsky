@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-kupec-benatsky-7aca177",
-  "revision": "7aca177",
+  "identifier": "shakespeare-kupec-benatsky-aa490ce",
+  "revision": "aa490ce",
   "readingOrder": [
     "promo.html",
     "kupec_benatsky_005.html",
@@ -18,11 +18,11 @@
     "kupec_benatsky_008.html",
     "kupec_benatsky_009.html",
     "kupec_benatsky_010.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:25:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979957951
+    "date": "Thu Jul 07 2022 08:38:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183127848
   },
   "documents": [
     {
@@ -283,7 +283,7 @@
       "role": "chapter",
       "order": 6,
       "prev": "kupec_benatsky_009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -304,11 +304,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 131,
-      "chars": 860,
+      "chars": 859,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kupec_benatsky_010.html",
       "next": null,
@@ -326,7 +326,7 @@
   "totals": {
     "all": {
       "words": 18892,
-      "chars": 109069,
+      "chars": 109068,
       "ideas": 2955
     },
     "chapters": {

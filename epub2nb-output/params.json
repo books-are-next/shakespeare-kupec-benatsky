@@ -64,7 +64,7 @@
             "filename": "kupec_benatsky_003.md",
             "xhtml": "kupec_benatsky_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "kupec_benatsky_004.md",
             "xhtml": "kupec_benatsky_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -166,7 +166,7 @@
             "filename": "kupec_benatsky_011.md",
             "xhtml": "kupec_benatsky_011.xhtml",
             "id": 10,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -334,6 +334,6 @@
       "user": "books-are-next",
       "repo": "shakespeare-kupec-benatsky"
     },
-    "generatedAt": 1655979618439
+    "generatedAt": 1657182437512
   }
 }

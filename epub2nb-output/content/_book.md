@@ -21,7 +21,7 @@ readingOrder:
   - kupec_benatsky_008.html
   - kupec_benatsky_009.html
   - kupec_benatsky_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
