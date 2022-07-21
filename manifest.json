@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-kupec-benatsky-c48bf58",
-  "revision": "c48bf58",
+  "identifier": "shakespeare-kupec-benatsky-a2606c0",
+  "revision": "a2606c0",
   "readingOrder": [
     "promo.html",
     "kupec_benatsky_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:54:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187640579
+    "date": "Thu Jul 21 2022 14:45:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414738385
   },
   "documents": [
     {
@@ -306,7 +306,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 131,
-      "chars": 859,
+      "chars": 860,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -326,7 +326,7 @@
   "totals": {
     "all": {
       "words": 18892,
-      "chars": 109068,
+      "chars": 109069,
       "ideas": 2955
     },
     "chapters": {
