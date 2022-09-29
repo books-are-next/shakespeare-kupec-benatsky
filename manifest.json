@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-kupec-benatsky-a2606c0",
-  "revision": "a2606c0",
+  "identifier": "shakespeare-kupec-benatsky-daf2877",
+  "revision": "daf2877",
   "readingOrder": [
     "promo.html",
     "kupec_benatsky_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:45:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414738385
+    "date": "Thu Sep 29 2022 21:34:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487282212
   },
   "documents": [
     {
